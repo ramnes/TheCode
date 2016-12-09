@@ -1,0 +1,3006 @@
+﻿1
+00:00:20,000 --> 00:00:26,000
+Laisse-moi faire une analogie
+entre un programme et une recette de cuisine
+
+2
+00:00:26,100 --> 00:00:31,100
+Un programme ressemble beaucoup à une recette.
+Les deux sont une liste d'étapes qui doivent être appliquées
+
+3
+00:00:31,200 --> 00:00:34,200
+avec des règles pour te dire quand c'est bon
+
+4
+00:00:34,300 --> 00:00:40,000
+ou quand tu dois revenir en arrière.
+À la fin, il y a un certain résultat.
+
+5
+00:00:40,100 --> 00:00:44,100
+Si tu cuisines, tu échanges
+probablement des recette avec tes amis
+
+6
+00:00:44,200 --> 00:00:48,200
+et tu modifie probablement les recettes aussi !
+
+7
+00:00:48,300 --> 00:00:53,300
+Et si tu as fait des modifications et que tu
+aimes le résultat, et que tes amis aiment le manger
+
+8
+00:00:53,400 --> 00:00:58,400
+alors tu vas peut-être leur donner
+la version modifiée de la recette.
+
+9
+00:00:58,500 --> 00:01:02,500
+Imagine un monde où tu ne peux pas changer la recette
+
+10
+00:01:02,600 --> 00:01:08,600
+parce que quelqu'un a tout fait
+pour que ce soit impossible
+
+11
+00:01:08,700 --> 00:01:14,700
+et imagine que si tu partages ta recette,
+ils déclarent que tu es un pirate
+
+12
+00:01:14,800 --> 00:01:18,800
+et essayent de te mettre en prison pour des années.
+
+13
+00:01:48,000 --> 00:01:53,000
+J'utilise le mot "hacker" dans son sens le
+plus correct et original, pour décrire
+
+14
+00:01:53,500 --> 00:01:57,500
+une personne qui exerce le développement informatique
+comme une sorte de passion artistique
+
+15
+00:01:58,000 --> 00:02:03,000
+et aussi, qui fait partie ou
+s'identifie dans cette culture du hack
+
+16
+00:02:03,500 --> 00:02:09,500
+qui historiquement, est un groupe de développeurs qui
+ont fabriqués Internet, Linux et le World Wide Web.
+
+17
+00:02:21,000 --> 00:02:27,000
+Je pense qu'il faut être un hacker pour
+comprendre cette mentalité spécifique
+
+18
+00:02:27,500 --> 00:02:34,500
+qui est d'être rebelle à l'idée que le code source
+du système d'exploitation d'un ordinateur devrait être caché
+
+19
+00:02:35,000 --> 00:02:42,000
+Cette attitude "Open Source" ne se mélange pas bien
+avec le concept d'une économie de libre marché.
+
+20
+00:02:42,500 --> 00:02:49,500
+C'est aussi une menace pour les concepts traditionnels
+de copyright et de propriété intellectuelle.
+
+21
+00:02:50,000 --> 00:02:54,000
+Des entreprises telles que Microsoft, qui se
+développent grâce à du code source "fermé",
+
+22
+00:02:54,500 --> 00:02:57,500
+ont tactiquement moulé le logiciel libre dans une image
+
+23
+00:02:57,600 --> 00:03:01,600
+d'un monstre semblable à McCarthy.
+
+24
+00:03:02,000 --> 00:03:06,000
+Tout ceci a mis au monde l'une des plus
+étranges réussites des années 1990
+
+25
+00:03:06,500 --> 00:03:12,500
+incarnée par le talentueux leader de la
+communauté, et icône inestimable,
+
+26
+00:03:13,000 --> 00:03:17,000
+qui a planté la graine pour un mouvement, dont les
+ramifications ont continuées de se répandre.
+
+27
+00:03:18,000 --> 00:03:21,000
+<i>Linus Torvalds a créé un
+système informatique qui a frappé</i>
+
+28
+00:03:21,500 --> 00:03:23,500
+<i>toute l'industrie avec stupéfaction.</i>
+
+29
+00:03:24,000 --> 00:03:27,000
+<i>Linux - un système d'exploitation qui fait désormais
+fonctionner 8 millions d'ordinateurs dans le monde</i>
+
+30
+00:03:27,500 --> 00:03:33,500
+<i>Wired Magazine : "Il est shaman
+au même titre que Väinämöinen</i>
+
+31
+00:03:34,000 --> 00:03:37,000
+<i>-et son système d'exploitation Linux est
+le plus brillant chef-d'œuvre d'Internet".</i>
+
+32
+00:03:37,500 --> 00:03:42,500
+<i>La décision de Torvalds de distribuer
+Linux gratuitement et de révéler</i>
+
+33
+00:03:43,000 --> 00:03:46,000
+<i>son code source ont fait de lui
+une figure de culte</i>
+
+34
+00:03:46,500 --> 00:03:50,500
+Linux Torvalds, le génie de l'informatique
+qui rêve de vaincre Microsoft
+
+35
+00:03:51,000 --> 00:03:53,000
+ou plutôt Bill Gates. Comment ça avance ?
+
+36
+00:03:53,500 --> 00:03:56,500
+<i>Il y'en a qui disent que Linus Torvalds
+a accompli un...</i>
+
+37
+00:03:57,000 --> 00:04:00,000
+<i>miracle.</i>
+
+38
+00:04:06,000 --> 00:04:10,000
+Les fourmis ouvrières sont constamment en
+contact les unes des autres par des modems
+
+39
+00:04:10,500 --> 00:04:14,500
+publiant du code, demandant des
+commentaires sur les modifications
+
+40
+00:04:15,000 --> 00:04:20,000
+pour créer le meilleur système
+d'exploitation possible du monde.
+
+41
+00:04:21,000 --> 00:04:24,000
+San Jose, en Californie
+
+42
+00:04:30,000 --> 00:04:34,000
+Je voulais que personne d'autre n'ait
+à aller par là où je suis passé
+
+43
+00:04:34,500 --> 00:04:40,500
+pour trouver quelque chose comme Linux.
+Peut-être qu'un autre étudiant en informatique
+
+44
+00:04:41,000 --> 00:04:45,000
+nécessite son propre système d'exploitation,
+et il n'aura pas à partir d'une page blanche.
+
+45
+00:04:45,500 --> 00:04:51,500
+Ce n'était pas un combat contre du vent.
+Ce n'était pas Don Quichotte contre le monde
+
+46
+00:04:52,000 --> 00:04:55,000
+essayant d'en faire un meilleur endroit.
+
+47
+00:05:01,000 --> 00:05:03,000
+<i>Viens, viens. Tu veux à manger ?</i>
+
+48
+00:05:05,000 --> 00:05:10,000
+Je préfère bien plus travailler avec
+les gens par email que face à face.
+
+49
+00:05:10,500 --> 00:05:16,500
+Face à face tu as tendance à rentrer dans tous ces
+arguments insignifiants et tous ces détails sans intérêt.
+
+50
+00:05:17,000 --> 00:05:23,000
+Par email tu dois penser un peu
+avant d'envoyer une réponse.
+
+51
+00:05:38,000 --> 00:05:42,000
+Ce n'est pas parce que nous ne
+sommes pas au même endroit que
+
+52
+00:05:42,500 --> 00:05:47,500
+nous ne sommes pas ensemble dans le sens social. C'est
+comme si on était dans un très très large bureau partagé.
+
+53
+00:05:48,000 --> 00:05:52,000
+On argumente même via Internet
+du même genre de façon.
+
+54
+00:05:52,500 --> 00:05:58,500
+C'est un projet énorme. Il n'y jamais
+eu un projet logiciel que je connaisse
+
+55
+00:05:59,000 --> 00:06:05,000
+sur lequel aient travaillé tant de
+gens de tant d'endroits différents
+
+56
+00:06:05,500 --> 00:06:08,500
+pour mettre tout ça au point.
+
+57
+00:06:09,000 --> 00:06:11,900
+La chose la plus innovante à propos de
+la communauté Linux, ce n'est pas son
+
+58
+00:06:12,000 --> 00:06:15,000
+code source, mais la machine
+sociale qui s'est développée autour
+
+59
+00:06:22,000 --> 00:06:25,000
+Ce qu'est Linux ?
+Je dirais que...
+
+60
+00:06:25,500 --> 00:06:31,500
+Chaque ordinateur est différent,
+chaque lecteur de disquette est différent,
+
+61
+00:06:32,000 --> 00:06:36,000
+chaque disque dur est différent,
+chaque contrôleur vidéo est différent...
+
+62
+00:06:36,500 --> 00:06:42,500
+Et Linux c'est le truc qui sait comment faire
+pour que chacun de ces différents types de composants
+
+63
+00:06:43,000 --> 00:06:47,000
+fasse des tâches simples comme
+"écris mon fichier sur le disque" ou
+
+64
+00:06:47,500 --> 00:06:53,500
+"lis ce fichier depuis cette disquette" ou
+"dessine cette image sur l'écran".
+
+65
+00:06:54,000 --> 00:06:57,000
+Linux sait comment parler à ces
+différents composants électroniques
+
+66
+00:06:57,500 --> 00:07:00,500
+pour leur faire faire les opérations habituelles
+que doivent nous faire les ordinateurs chaque jour.
+
+67
+00:07:01,000 --> 00:07:07,000
+Qu'est-ce qu'on veut dire par "Linux" ? Certains
+veulent parler de l'ensemble du système d'exploitation,
+
+68
+00:07:07,500 --> 00:07:11,500
+sur lequel repose tout ce qui se passe sur un ordinateur.
+
+69
+00:07:12,000 --> 00:07:18,000
+D'autres disent "Linux", en parlant uniquement
+du programme le plus important : le noyau.
+
+70
+00:07:26,000 --> 00:07:29,000
+Il faut revenir à la personne qui a
+tout démarré. La personne qui
+
+71
+00:07:29,500 --> 00:07:32,500
+d'une certaine manière a utilisé internet
+pour créer une communauté de personnes
+
+72
+00:07:33,000 --> 00:07:35,000
+qui ont tous senti que leurs
+contributions étaient mises en valeur.
+
+73
+00:07:36,000 --> 00:07:40,000
+Et cette capacité de favoriser la coopération
+pourrait bien être quelque chose
+
+74
+00:07:40,500 --> 00:07:46,500
+qui ne puisse venir que d'une personne
+originaire d'un pays comme la Finlande.
+
+75
+00:07:52,000 --> 00:07:55,000
+Helsinki, Finland
+
+76
+00:08:01,000 --> 00:08:07,000
+1969 - ça a l'air d'avoir été une sacrée année.
+
+77
+00:08:07,500 --> 00:08:13,500
+L'atterrissage sur la lune, Woodstock, la
+naissance d'ARPANET, qui a conduit à Internet.
+
+78
+00:08:16,000 --> 00:08:21,000
+Les premiers pas d'UNIX, le système
+d'exploitation pour les gros ordinateurs ;
+
+79
+00:08:21,500 --> 00:08:27,500
+et le 28 décembre, Linus Torvalds est né.
+
+80
+00:08:30,000 --> 00:08:33,000
+Tous les enfants commencent à apprendre en jouant.
+
+81
+00:08:33,500 --> 00:08:39,500
+Pour cette raison je pense que ça a
+été très important pour Linus d'entrer
+
+82
+00:08:40,000 --> 00:08:46,000
+dans le monde de l'informatique quand les
+ordinateurs étaient encore assez simples
+
+83
+00:08:46,500 --> 00:08:51,500
+pour que même un enfant de 10-12 ans puisse
+comprendre ce qu'il y avait dans la machine.
+
+84
+00:08:52,000 --> 00:08:56,000
+Aujourd’hui, il y a tellement de couches d'informations
+
+85
+00:08:56,500 --> 00:09:01,500
+et de choses compliquées entre ce qui est montré à l'écran
+
+86
+00:09:02,000 --> 00:09:06,000
+et ce qui est dans la machine.
+C'est difficile pour l'enfant d'aujourd’hui
+
+87
+00:09:06,500 --> 00:09:12,500
+de mettre en application leur
+imagination comme Linus l'a fait.
+
+88
+00:09:19,000 --> 00:09:24,000
+Je pense que c'était le coup de foudre
+aussi bien pour son père que pour Linus
+
+89
+00:09:24,500 --> 00:09:28,500
+qui étaient tous les deux excités
+comme des enfants à l'idée de jouer
+
+90
+00:09:29,000 --> 00:09:31,000
+avec les possibilités que le VIC-20 offrait.
+
+91
+00:09:31,500 --> 00:09:35,000
+L'endroit où Linus a développé Linux n'existe plus,
+
+92
+00:09:35,500 --> 00:09:37,500
+car les murs ont étés démolis.
+
+93
+00:09:38,000 --> 00:09:42,000
+Ici dans le coin, là où il y a le canapé, c'est
+là qu'il y avait le bureau et l'ordinateur de Linus
+
+94
+00:09:42,500 --> 00:09:45,500
+sur lequel il travaillait.
+
+95
+00:09:49,000 --> 00:09:56,000
+Le plus gros changement c'est qu'il est maintenant le guru
+
+96
+00:09:56,500 --> 00:10:00,500
+qui a l'habitude de parler devant
+une audience et qui peut les gérer.
+
+97
+00:10:01,000 --> 00:10:07,000
+Ce n'est pas être pas surprenant, mais quand
+même frappant quand on compare à comment
+
+98
+00:10:08,000 --> 00:10:12,000\
+il était avant : plutôt timide et retiré, et pas celui
+
+99
+00:10:12,500 --> 00:10:18,500
+qui prend des nouvelles, mais c'était ses amis
+qui prenaient des nouvelles de lui.
+
+100
+00:10:19,000 --> 00:10:23,000
+<i>Salut à tous ceux ici qui utilisent MINIX. Je suis
+en train de faire un système d'exploitation gratuit.</i>
+
+101
+00:10:23,500 --> 00:10:27,500
+<i>C'est juste un hobby, ça ne sera
+pas gros et professionnel</i>
+
+102
+00:10:28,000 --> 00:10:32,000
+<i>comme "GNU". C'est pour les clones de AT 386 et 486.</i>
+
+103
+00:10:32,500 --> 00:10:35,500
+<i>C'est en train de fermenter depuis
+Avril et ça commence à être prêt.</i>
+
+104
+00:10:36,000 --> 00:10:39,000
+<i>J'aimerais bien des retours sur ce que
+les choses aiment ou pas dans MINIX</i>
+
+105
+00:10:39,500 --> 00:10:44,500
+<i>vu que mon OS y ressemble quelque peu.
+Toutes les suggestions sont les bienvenues</i>
+
+106
+00:10:45,000 --> 00:10:48,000
+<i>mais je ne promets pas de toutes les implémenter.</i>
+
+107
+00:10:48,500 --> 00:10:51,500
+torvalds@kruuna.helsinki.fi
+
+108
+00:10:52,000 --> 00:10:57,000
+1991 - Fin de l'URSS.
+
+109
+00:10:59,000 --> 00:11:01,000
+La guerre du Golf.
+
+110
+00:11:01,500 --> 00:11:04,500
+Le physicien britannique Tim Berners-Lee
+
+111
+00:11:05,000 --> 00:11:11,000
+publie un système hypertexte, qu'il appelle "World Wide Web".
+
+112
+00:11:14,000 --> 00:11:19,000
+Microsoft est bien parti pour dominer le monde.
+
+113
+00:11:22,000 --> 00:11:26,000
+Et le 17 septembre, Linux Torvals envoie la première
+
+114
+00:11:26,500 --> 00:11:32,500
+version de Linux, la 0.01, au monde, via Internet.
+
+115
+00:11:33,000 --> 00:11:37,000
+Les premières réponses arrivent
+dans les heures qui suivent.
+
+116
+00:11:37,500 --> 00:11:41,500
+"C'est ici que Linux a été inventé"
+
+117
+00:11:53,000 --> 00:11:55,000
+"Université d'Helsinki"
+
+118
+00:11:58,000 --> 00:12:04,000
+On a d'abord entendu des murmures dans la cafétéria.
+
+119
+00:12:04,500 --> 00:12:07,500
+Un système d'exploitation avait été
+développé et commençait à se propager.
+
+120
+00:12:08,000 --> 00:12:12,000
+Nous avons appris à mieux connaître Linus.
+
+121
+00:12:12,500 --> 00:12:18,500
+Ses compétences en programmation
+avaient déjà été remarquées ici.
+
+122
+00:12:26,000 --> 00:12:32,000
+Linus a basé Linux sur UNIX, pour ses bases idéales.
+
+123
+00:12:32,500 --> 00:12:37,500
+Le système d'exploitation UNIX d'origine
+a été créé par Ken Thompson
+
+124
+00:12:38,000 --> 00:12:42,000
+et Dennis Ritchie chez AT&T Bell Labs en 1969.
+
+125
+00:12:42,500 --> 00:12:46,500
+Au début, UNIX était un système
+d'exploitation relativement libre,
+
+126
+00:12:47,000 --> 00:12:49,900
+et très populaire dans les milieux universitaires.
+
+127
+00:12:50,000 --> 00:12:54,000
+Sa philosophie est basée sur deux notions.
+
+128
+00:12:54,500 --> 00:12:58,500
+D'abord, toute chose est un fichier.
+
+129
+00:12:59,000 --> 00:13:04,000
+Ensuite, quand tu construis quelque chose,
+tu écris des choses qui ne font
+
+130
+00:13:04,500 --> 00:13:08,500
+qu'une seule chose, mais qui la font bien.
+
+131
+00:13:11,900 --> 00:13:16,900
+Mettre Linux sur le net était plutôt
+naturel pour plusieurs raisons.
+
+132
+00:13:16,900 --> 00:13:22,900
+Il y avait plein de petites raisons.
+Comme le fait que je pensais que c'était
+
+133
+00:13:23,000 --> 00:13:29,000
+une bonne idée de rentre Linux disponible
+aux autres afin qu'ils puissent l'essayer
+
+134
+00:13:29,100 --> 00:13:32,100
+et me renvoyer des commentaires.
+
+135
+00:13:33,000 --> 00:13:36,000
+Il n'avait vraiment que deux choix.
+Il pouvait soit le rendre complètement gratuit
+
+136
+00:13:36,100 --> 00:13:39,100
+ou alors il pouvait essayer de le monétiser.
+
+137
+00:13:39,500 --> 00:13:43,500
+Linux n'existerait pas s'il
+avait essayé d'en tirer profit.
+
+138
+00:13:44,000 --> 00:13:50,000
+Personne ne l'aurait acheté.
+Ça n'aurait mené nul part.
+
+139
+00:13:51,000 --> 00:13:58,000
+Tu n'es pas venu depuis un bout de temps.
+On a déjà installé la troisième version...
+
+140
+00:14:00,000 --> 00:14:06,000
+On a eu des difficultés à mettre les
+trucs Linux sur une seule machine.
+
+141
+00:14:06,500 --> 00:14:11,500
+Au début, Linux ne voulait pas
+publier gratuitement Linux.
+
+142
+00:14:12,000 --> 00:14:18,000
+Il réfléchissait beaucoup au genre de
+copyright qu'il pourrait utiliser.
+
+143
+00:14:23,000 --> 00:14:30,000
+Je l'ai persuadé de le publier sous le copyright GNU.
+
+144
+00:14:30,500 --> 00:14:35,500
+En particulier, vu que le compilateur que
+j'utilisais était publié sous la licence GPL
+
+145
+00:14:36,000 --> 00:14:40,000
+j'ai finalement utilisé la GPL moi-même.
+
+146
+00:14:44,000 --> 00:14:50,000
+La "Licence Publique Générale GNU" (GPL)
+fondée par la Free Software Foundation
+
+147
+00:14:50,500 --> 00:14:56,500
+dans les années 1980 dit que si
+tu changes et modifies le code
+
+148
+00:14:57,000 --> 00:15:01,000
+tu dois rendre tes changements et
+améliorations disponibles gratuitement à tous.
+
+149
+00:15:01,500 --> 00:15:05,500
+La GPL empêche quiconque d'avoir le monopole
+
+150
+00:15:06,000 --> 00:15:09,000
+sur un morceau de technologie important.
+
+151
+00:15:10,000 --> 00:15:14,000
+Je pense que le timing était vraiment bon.
+Même un an plus tôt je ne pense pas que
+
+152
+00:15:14,500 --> 00:15:21,500
+ça aurait pu être fait, et un an après quelqu'un
+aurait déjà fait quelque chose de similaire.
+
+153
+00:15:22,000 --> 00:15:26,000
+L'Internet n'avait pas encore une population générale
+
+154
+00:15:26,500 --> 00:15:31,500
+mais il était très puissant
+dans les réseaux universitaires.
+
+155
+00:15:34,000 --> 00:15:38,000
+J'avais fait un programme de liste de diffusion
+dans le language de programmation "C".
+
+156
+00:15:38,500 --> 00:15:41,500
+Il fallait que je l'améliore et que
+j'ajoute de nouvelles fonctionnalités.
+
+157
+00:15:42,000 --> 00:15:47,000
+D'un coup, des milliers de personnes se sont intéressées.
+
+158
+00:15:47,500 --> 00:15:51,500
+Ça a été une surprise. Les nombres
+doublaient dans des intervalles très courts.
+
+159
+00:15:52,000 --> 00:15:58,000
+C'était fou. Après 1000 personnes, 2000 ;
+le jour d'après 4000 personnes.
+
+160
+00:16:00,000 --> 00:16:06,000
+Sans Internet, le développement de Linux
+aurait ressemblé à une partie d'échecs par courrier.
+
+161
+00:16:11,000 --> 00:16:17,000
+Mon choix pour le nom a été "FREAX".
+
+162
+00:16:17,500 --> 00:16:23,500
+Ce qui était à la fois "free" et "freak",
+plus le "X" qu'il fallait avoir pour UNIX.
+
+163
+00:16:24,000 --> 00:16:30,000
+Je n'aimais pas vraiment le nom FREAX.
+Ça n'était pas très vendeur...
+
+164
+00:16:30,500 --> 00:16:36,500
+Ari Lemmke, qui a d'ailleurs mis Linux en ligne sur
+son FTP, pensait que c'était une très mauvaise idée.
+
+165
+00:16:37,000 --> 00:16:41,000
+Il détestait vraiment le nom. Il a rendu
+le site FTP disponible et l'a juste
+
+166
+00:16:42,000 --> 00:16:45,000
+appelé Linux parce qu'il savait
+que c'était le nom qui marcherait.
+
+167
+00:16:46,000 --> 00:16:53,000
+Le nom est resté,
+et Linux est un bien meilleur nom.
+
+168
+00:16:55,000 --> 00:16:57,000
+"GEEKS"
+
+169
+00:16:57,500 --> 00:16:59,500
+"NERDS"
+
+170
+00:17:00,000 --> 00:17:03,000
+Nous avons une quantité impressionnante
+de geeks et de nerds ici.
+
+171
+00:17:03,500 --> 00:17:09,500
+La première question, de la catégorie facile :
+"Comment est-ce qu'on prononce Linux ?"
+
+172
+00:17:10,000 --> 00:17:15,000
+Et bien, je prononce Linux "Linux".
+
+173
+00:17:15,500 --> 00:17:21,500
+Cependant, la réponse complète à ça
+est que si tu es Linus Torvalds
+
+174
+00:17:22,000 --> 00:17:25,000
+tu le prononces sûrement "Leenoux".
+D'un autre côté,
+
+175
+00:17:25,100 --> 00:17:28,000
+si tu es de la côte ouest des États Unis,
+
+176
+00:17:28,500 --> 00:17:33,500
+tu prononces "Lyneux". Mais Linus a dit
+qu'il s'en fiche comment tu le prononces
+
+177
+00:17:34,000 --> 00:17:38,000
+du moment que tu l'utilises !
+
+178
+00:17:40,000 --> 00:17:43,000
+C'était en Juillet de 1991
+
+179
+00:17:43,500 --> 00:17:48,500
+ce qui était juste après que Linus
+ait publié la version 0.09 du noyau
+
+180
+00:17:49,000 --> 00:17:54,000
+que j'ai commencé à jouer avec Linux.
+J'en ai entendu parler sur, je crois, Usenet.
+
+181
+00:17:54,500 --> 00:17:57,500
+Je l'ai téléchargé de Finlande,
+j'ai commencé à jouer avec
+
+182
+00:17:58,000 --> 00:17:59,900
+et j'ai trouvé que c'était vraiment sympa !
+
+183
+00:18:00,000 --> 00:18:04,000
+À ce stade la bande passante transatlantique
+d'Internet était très limitée.
+
+184
+00:18:04,500 --> 00:18:10,500
+donc c'était très pénible de télécharger
+tous ces paquets depuis la Finlande.
+
+185
+00:18:11,000 --> 00:18:14,000
+Et donc j'ai décidé : "Bon, il faut
+qu'on fasse quelque chose pour ça"
+
+186
+00:18:14,500 --> 00:18:21,500
+et j'ai utilisé ma station de travail
+personnelle, "TSX-11.mit.edu"
+
+187
+00:18:22,000 --> 00:18:27,000
+et j'ai mis en place une archive miroir de toutes
+les sources du noyau sur ma station de travail personnelle.
+
+188
+00:18:27,500 --> 00:18:33,500
+Et c'était le premier site FTP Linux américain à exister.
+
+189
+00:18:35,000 --> 00:18:40,000
+La première fois que j'ai eu Linux a été quand
+j'ai téléchargé les images de disquette pour Linux
+
+190
+00:18:40,500 --> 00:18:45,500
+et dans le laboratoire informatique de l'Université d'État
+de Pennsylvanie, je l'ai installé sur une de leurs machines
+
+191
+00:18:46,000 --> 00:18:49,000
+et il m'ont directement expulsés du
+laboratoire informatique ce même jour
+
+192
+00:18:49,100 --> 00:18:52,000
+mais c'était ma première expérience avec Linux.
+
+193
+00:18:56,000 --> 00:19:02,000
+Très tôt en 1992, d'un coup
+je ne connaissais plus personne.
+
+194
+00:19:02,500 --> 00:19:08,500
+Ce n'était plus seulement moi et quelques amis,
+
+195
+00:19:09,000 --> 00:19:13,000
+c'était moi, et quelques milliers
+de personnes dont je ne savais pas
+
+196
+00:19:14,500 --> 00:19:18,500
+où ils étaient, ce qu'ils avaient
+fait avec le système, et qui ils sont.
+
+197
+00:19:19,000 --> 00:19:22,000
+Et c'était une grosse étape.
+
+198
+00:19:22,500 --> 00:19:24,500
+Université d'Helsinki
+
+199
+00:19:28,000 --> 00:19:32,000
+La version 1.0 de 1994 était clairement
+importante et a beaucoup compté pour moi
+
+200
+00:19:32,100 --> 00:19:35,000
+parce qu'il y avait beaucoup de travail derrière.
+
+201
+00:19:35,500 --> 00:19:38,500
+C'était assurément le début de
+l'utilisation commerciale de Linux.
+
+202
+00:19:39,000 --> 00:19:43,000
+C'était très dur d'utiliser Linux
+commercialement avant la version 1.0.
+
+203
+00:19:45,000 --> 00:19:51,000
+Bienvenu à la conférence de presse du
+système d'exploitation Linux 1.0.
+
+204
+00:19:51,500 --> 00:19:54,500
+Pourquoi est-ce que ce genre
+de système à la UNIX a été fait,
+
+205
+00:19:54,600 --> 00:19:57,500
+et en particulier à l'Université d'Helsinky ?
+
+206
+00:19:59,000 --> 00:20:02,000
+Parce qu'il existe, même pour PC,
+des systèmes d'exploitation UNIX,
+
+207
+00:20:02,100 --> 00:20:04,000
+mais ils coûtent très cher.
+
+208
+00:20:06,500 --> 00:20:11,500
+Par exemple, DOS coûte environ 200 marks.
+
+209
+00:20:12,000 --> 00:20:17,000
+UNIX coûte 20 000 marks.
+
+210
+00:20:17,500 --> 00:20:22,500
+C'est vraiment beaucoup à payer pour un étudiant.
+
+211
+00:20:23,000 --> 00:20:29,000
+Essaye d'aller dans une boutique
+d'informatique et demande SCU-UNIX.
+
+212
+00:20:29,500 --> 00:20:32,500
+Ils vont te prendre pour un fou.
+
+213
+00:20:33,000 --> 00:20:36,000
+En fait, c'est plus facile de l'écrire toi-même !
+
+214
+00:20:39,000 --> 00:20:43,000
+Le processus de développement de Linux est surprenant.
+
+215
+00:20:43,500 --> 00:20:50,500
+Ce n'est pas une hiérarchie, mais chacun est
+libre de proposer des modifications du code.
+
+216
+00:20:53,000 --> 00:20:59,000
+Il y a une personne qui dirige, prend les grandes
+décisions, et choisit les meilleures idées :
+
+217
+00:20:59,500 --> 00:21:05,500
+Linus - "le dictateur bienveillant".
+
+218
+00:21:06,000 --> 00:21:10,000
+Tout le monde savait que quelqu'un devait
+être à la tête de ce groupe de travail
+
+219
+00:21:10,500 --> 00:21:15,500
+et Linus était le chef naturel, vu qu'il
+avait fait le cœur du noyau Linux
+
+220
+00:21:16,000 --> 00:21:21,000
+et Linus était quelqu'un qui
+était un très très bon leader.
+
+221
+00:21:21,500 --> 00:21:24,500
+Il est quelqu'un d'assez humble en fait.
+
+222
+00:21:24,600 --> 00:21:28,500
+Il n'essaye pas de prendre crédit
+de quelque chose qu'il ne fait pas.
+
+223
+00:21:33,000 --> 00:21:38,000
+Si tu veux qu'il y ait des centaines, des
+milliers de gens qui travaillent sur le noyau
+
+224
+00:21:38,100 --> 00:21:41,500
+en même temps, il ne faut pas que ces gens
+
+225
+00:21:41,600 --> 00:21:43,500
+se marchent dessus en permanence.
+
+226
+00:21:43,600 --> 00:21:48,500
+parce que sinon la plupart de ton
+temps va être perdu à résoudre
+
+227
+00:21:48,600 --> 00:21:53,500
+des conflits entre les gens et ça
+va juste être la guerre tout le temps.
+
+228
+00:21:54,000 --> 00:21:58,000
+Je pensais qu'il y avait cette hiérarchie que je dirigeais
+
+229
+00:21:58,100 --> 00:22:00,000
+et qu'ils étaient mes lieutenants
+
+230
+00:22:01,500 --> 00:22:06,500
+mais je ne pense plus que ce soit comme ça maintenant.
+C'est plus comme un réseau de confiance
+
+231
+00:22:07,000 --> 00:22:12,000
+où il y a des personnes en qui j'ai confiance,
+qui eux-même ont leurs gens de confiance.
+
+232
+00:22:12,500 --> 00:22:16,500
+Et bien, il y a plein de choses
+qui motivent les développeurs !
+
+233
+00:22:17,000 --> 00:22:21,000
+Il y a la fierté artistique, cette satisfaction que
+tu obtiens après avoir fait du bon travail artisanal.
+
+234
+00:22:21,500 --> 00:22:25,500
+Il y ce sentiment idéaliste que tu fais partie de
+
+235
+00:22:25,600 --> 00:22:29,500
+quelque chose plus grand
+et plus important que tu ne l'es.
+
+236
+00:22:30,000 --> 00:22:34,000
+Il y a ce désire d'aider le monde
+et de voir des solutions émerger.
+
+237
+00:22:34,500 --> 00:22:37,500
+Vu qu'il n'y a pas de récompense
+monétaire, en général la plupart des gens
+
+238
+00:22:37,600 --> 00:22:40,500
+jouent en quelque sorte pour
+leur réputation parmi leurs pairs.
+
+239
+00:22:44,000 --> 00:22:48,000
+Une force du monde du développement Linux
+
+240
+00:22:48,500 --> 00:22:54,500
+est que pratiquement tous les auteurs de
+logiciel peuvent être contactés par mail.
+
+241
+00:22:55,000 --> 00:23:01,000
+Ted Ts'o a été crucial dans la
+propagation de Linux aux États-Unis.
+
+242
+00:23:03,000 --> 00:23:06,000
+Franchement, c'est très facile de dire :
+
+243
+00:23:06,100 --> 00:23:09,000
+"Si nous étions responsable,
+nous ne ferions pas ces choses".
+
+244
+00:23:09,500 --> 00:23:12,000
+Mais encore une fois, ce n'est pas nous
+qui recevons tous ces emails disant :
+
+245
+00:23:12,100 --> 00:23:13,900
+"S'il te plaît, laisse-moi ajouter
+cette nouvelle fonctionnalité !"
+
+246
+00:23:14,000 --> 00:23:17,000
+Donc je ne sais pas ce que je ferais
+si j'étais vraiment responsable.
+
+247
+00:23:17,500 --> 00:23:21,500
+Dave Miller est un mainteneur
+qui vérifie les modifications
+
+248
+00:23:21,600 --> 00:23:24,500
+que les développeurs
+veulent faire dans le noyau.
+
+249
+00:23:26,000 --> 00:23:32,000
+Il est comme un entonnoir entre
+les contributeurs et "le roi" Linus.
+
+250
+00:23:32,500 --> 00:23:36,500
+La façon dont nous travaillons c'est...
+Tu peux parler tout la journée d'une bonne idée
+
+251
+00:23:37,000 --> 00:23:39,000
+ou d'une solution à un problème,
+ou de quelque chose que
+
+252
+00:23:39,100 --> 00:23:42,400
+tu crois être une fonctionnalité
+intéressante pour Linux, mais...
+
+253
+00:23:42,500 --> 00:23:47,500
+Montre-moi quelque chose de concret.
+Montre-moi un bout de code qui fait ça.
+
+254
+00:23:48,000 --> 00:23:52,000
+Quelque chose de tangible que je peux
+tester moi-même pour l'essayer et 
+
+255
+00:23:52,500 --> 00:23:55,500
+comprendre ce que c'est. Plutôt que de juste
+parler sans fin d'un sujet abstrait.
+
+256
+00:23:56,000 --> 00:24:01,500
+Alan Cox, un "hacker de la renaissance",
+est le plus proche collaborateur de Linus.
+
+257
+00:24:01,600 --> 00:24:03,900
+Son bras droit.
+
+258
+00:24:04,000 --> 00:24:07,000
+"Ce que fais Alan...
+L'autre côté de l'histoire"
+
+259
+00:24:07,500 --> 00:24:13,500
+Pour moi le code a plus en commun avec par exemple
+la poésie ou certaines formes d'écriture.
+
+260
+00:24:14,000 --> 00:24:18,000
+Sa beauté est dans la structure :
+mettre les idées une par une
+
+261
+00:24:18,100 --> 00:24:20,000
+de façon claire.
+
+262
+00:24:20,500 --> 00:24:24,500
+Donc un bon bout de code tu peux le lire
+sans commentaire et c'est tout de suite
+
+263
+00:24:24,600 --> 00:24:29,000
+évident de pourquoi il a été écrit, de par son élégance.
+Donc tu es à la recherche de code
+
+264
+00:24:29,100 --> 00:24:34,500
+qui est à la fois propre et élégant. Mais aussi
+qui ne se base pas sur des astuces de programmation,
+
+265
+00:24:35,000 --> 00:24:39,000
+qui ne fait pas de supposition qui pourrait
+ne plus être vraie dans le futur.
+
+266
+00:24:39,100 --> 00:24:42,500
+Parce que la dernière chose que nous voulons,
+c'est d'avoir beaucoup de code dans le noyau Linux
+
+267
+00:24:42,600 --> 00:24:44,900
+ce qui demande une grande quantité d'efforts
+pour le garder en état de marche.
+
+268
+00:24:45,000 --> 00:24:50,000
+On veut du code qui va juste continuer
+de marcher, et marcher pour toujours.
+
+269
+00:24:53,000 --> 00:24:58,000
+Pour avoir mené le projet Linux
+pendant cinq ans à Helsinki,
+
+270
+00:24:58,500 --> 00:25:02,500
+Linus a été recruté dans la
+Silicone Valley, en Californie.
+
+271
+00:25:03,000 --> 00:25:07,000
+Il voulait voir l'autre face
+du monde, le monde du commerce,
+
+272
+00:25:07,100 --> 00:25:09,000
+et pas seulement le côté académique.
+
+273
+00:25:09,500 --> 00:25:13,500
+"Edward Helmore parle à Linus Torvalds, la nouvelle
+étoile la plus brillante de la Silicon Valley"
+
+274
+00:25:14,600 --> 00:25:18,000
+<i>Vous êtes quand même une figure peu orthodoxe
+dans le monde de la Silicon Valley.</i>
+
+275
+00:25:18,100 --> 00:25:19,400
+<i>Qu'est-ce qu'ils font de vous ici ?</i>
+
+276
+00:25:19,500 --> 00:25:22,500
+Vous ne prenez pas part à leur activités
+commerciales folles, si vous le souhaitez.
+
+277
+00:26:18,000 --> 00:26:20,000
+"TRANSMETA"
+
+278
+00:26:22,000 --> 00:26:25,000
+Linus commença a travailler pour
+une société nommée "Transmeta".
+
+279
+00:26:25,500 --> 00:26:29,500
+Un petite société liée à Linux,
+mais un business mystérieux,
+
+280
+00:26:29,600 --> 00:26:32,600
+qui ne voulait pas dire, pendant
+des années, ce qu'il faisait.
+
+281
+00:26:33,000 --> 00:26:38,000
+Et paradoxalement, une société
+à code source fermé.
+
+282
+00:26:38,500 --> 00:26:43,500
+L'accord était que Linus pouvait toujours
+se concentrer au développement de Linux.
+
+283
+00:26:44,000 --> 00:26:51,000
+J'ai été forcé d'essayer d'être...
+une sorte de garçon d'affiche pour Linux
+
+284
+00:26:51,500 --> 00:26:56,000
+et même de la communauté
+Open Source dans son ensemble
+
+285
+00:26:56,100 --> 00:27:00,100
+alors que je ne suis même pas la personne
+qui a commencé l'Open Source.
+
+286
+00:27:04,000 --> 00:27:09,000
+Il n'y pas qu'une seule personne
+qui représente toute l'histoire
+
+287
+00:27:09,500 --> 00:27:13,500
+et il n'y pas qu'un seul point de départ.
+Je veux dire, c'est comme le bambou :
+
+288
+00:27:14,000 --> 00:27:16,000
+tu ne sais pas où ça
+commence ni où ça finit.
+
+289
+00:27:16,500 --> 00:27:20,500
+Je ne pense pas que ce mouvement
+soit nouveau du tout, en fait.
+
+290
+00:27:20,600 --> 00:27:22,600
+C'est dans l'air depuis longtemps.
+
+291
+00:27:23,000 --> 00:27:28,000
+Même dans les années 70, toute cette
+attitude qu'on avait autour d'UNIX,
+
+292
+00:27:28,500 --> 00:27:32,500
+même si techniquement le code n'était
+pas ouvert, ça n'était pas gratuit,
+
+293
+00:27:33,000 --> 00:27:37,000
+parce qu'il fallait aller se procurer
+cette licence auprès d'AT&T.
+
+294
+00:27:37,500 --> 00:27:42,500
+Comme ce n'était pas un problème en général,
+tu pouvais partager les choses gratuitement.
+
+295
+00:27:43,000 --> 00:27:48,000
+Quand tu lances un programme, en fait
+tu lances sa forme exécutable, 
+
+296
+00:27:48,500 --> 00:27:53,500
+qui est une série de chiffres
+et que personne ne peut comprendre.
+
+297
+00:27:54,000 --> 00:27:57,000
+Seul un ordinateur peut les comprendre.
+C'est à ça qu'ils servent.
+
+298
+00:27:57,500 --> 00:28:02,500
+Ces chiffres sont la forme du programme
+que l'ordinateur lui-même peut comprendre.
+
+299
+00:28:03,000 --> 00:28:07,000
+Pour que des humains comprennent ce qu'ils veulent dire,
+c'est très difficile. Quand on écrit du logiciel,
+
+300
+00:28:07,500 --> 00:28:13,500
+on l'écrit en code source, et ça ressemble
+à une forme d'algèbre. C'est la forme
+
+301
+00:28:14,000 --> 00:28:17,000
+que tu peux comprendre si tu est un programmeur.
+
+302
+00:28:17,500 --> 00:28:22,500
+Pour t'aider à comprendre, il y a
+souvent beaucoup de commentaires
+
+303
+00:28:23,000 --> 00:28:27,000
+qui sont des explications qui sont aussi mises
+dans le code source pour aider les autres personnes
+
+304
+00:28:27,100 --> 00:28:30,400
+à comprendre pourquoi le programme
+est écrit de cette façon.
+
+305
+00:28:30,500 --> 00:28:36,500
+Si tu ne récupères que les exécutables,
+qui sont à priori ce que Microsoft te donnera,
+
+306
+00:28:37,000 --> 00:28:42,000
+même si tu as la liberté de faire des modifications,
+tu ne sera jamais capable de comprendre
+
+307
+00:28:42,100 --> 00:28:44,400
+quelles modifications faire.
+C'est trop dur !
+
+308
+00:28:44,500 --> 00:28:47,500
+Pour que la liberté de changer le
+logiciel soit pratique, et utilisable,
+
+309
+00:28:47,600 --> 00:28:50,600
+il te faut avoir le code source.
+
+310
+00:28:51,000 --> 00:28:57,000
+Si tu regardes vraiment le projet...
+Comme je disais, Linus a développé le noyeau,
+
+311
+00:28:57,500 --> 00:29:01,500
+mais je pense que la partie la plus
+intéressante est vraiment que...
+
+312
+00:29:01,600 --> 00:29:03,900
+Richard Stallman a lancé le mouvement.
+
+313
+00:29:04,000 --> 00:29:06,000
+Tu as entendu parler de Richard Stallman ?
+
+314
+00:29:06,500 --> 00:29:10,500
+Il voulait que tout le monde ait les droits pour
+utiliser le logiciel, pour copier le logiciel
+
+315
+00:29:11,000 --> 00:29:14,000
+sans ne transgresser aucune loi.
+Pour faire des modifications, les distribuer,
+
+316
+00:29:14,100 --> 00:29:16,000
+et améliorer le logiciel. Il voulait
+donner aux gens des droits !
+
+317
+00:29:16,500 --> 00:29:20,500
+Quand il a décidé de renverser le capitalisme
+américain corrompu dans l'industrie de l'informatique,
+
+318
+00:29:21,000 --> 00:29:25,000
+il a quitté son boulot et a continué à coder.
+
+319
+00:29:26,000 --> 00:29:30,000
+<i>Rejoignez-nous maintenant,
+et partagez le logiciel.</i>
+
+320
+00:29:30,100 --> 00:29:33,100
+MIT,
+Camebridge, au Massachusetts
+
+321
+00:29:33,200 --> 00:29:37,200
+<i>Vous serez libres,
+hackers, vous serez libres !</i>
+
+322
+00:29:50,000 --> 00:29:56,500
+J'ai tendance à penser en termes
+de justice, liberté et éthique.
+
+323
+00:29:57,000 --> 00:30:01,000
+J'ai annoncé l'idée en novembre 83
+
+324
+00:30:01,500 --> 00:30:06,500
+mais ce n'est qu'en janvier 84
+que j'ai quitté mon travail au MIT
+
+325
+00:30:07,000 --> 00:30:10,000
+pour commencer à développer un
+système d'exploitation gratuit
+
+326
+00:30:10,500 --> 00:30:13,900
+auquel j'ai donné le nom "GNU".
+
+327
+00:30:15,000 --> 00:30:21,000
+Ça c'est GPL, la "GNU General Public License"
+et bien sûr le noyau est sous GPL...
+
+328
+00:30:21,500 --> 00:30:24,900
+"Free software", je devrais l'expliquer,
+réfère à la liberté, pas le prix.
+
+329
+00:30:25,000 --> 00:30:30,000
+Il est regrettable que le mot "free",
+en anglais, soit ambiguë.
+
+330
+00:30:30,100 --> 00:30:32,400
+Il a un bon nombre de
+significations différentes.
+
+331
+00:30:32,500 --> 00:30:37,500
+Un sens est "prix zéro",
+mais un autre sens est "liberté".
+
+332
+00:30:38,000 --> 00:30:44,000
+Donc pense "free speech" ("liberté de parole"),
+pas "free beer" ("bière gratuite").
+
+333
+00:30:50,000 --> 00:30:54,000
+Il y a une similarité entre
+le folklore quand un poème,
+
+334
+00:30:54,500 --> 00:30:58,500
+ou une chanson, ou une histoire,
+est affinée et remodelée
+
+335
+00:30:59,000 --> 00:31:03,000
+par un conteur ou un chanteur
+après l'autre
+
+336
+00:31:03,500 --> 00:31:08,500
+et la façon dont le logiciel libre est amélioré.
+
+337
+00:31:11,000 --> 00:31:18,000
+Tu trouveras souvent des cas où un logiciel libre
+est développé maintenant par un groupe de gens
+
+338
+00:31:18,500 --> 00:31:22,500
+qui n'inclut aucun des développeurs d'origine.
+
+339
+00:31:24,000 --> 00:31:28,000
+En 1991, nous avions quasiment
+terminé le système GNU.
+
+340
+00:31:28,500 --> 00:31:35,500
+Notre but était de faire un système d'exploitation,
+comme UNIX, mais complètement "logiciel libre".
+
+341
+00:31:36,000 --> 00:31:40,000
+Ce système d'exploitation complet
+nécessitait beaucoup de composants différents.
+
+342
+00:31:40,500 --> 00:31:45,500
+En 1991, nous avions quasiment tous ces composants.
+
+343
+00:31:46,000 --> 00:31:50,000
+Beaucoup que nous avions écris,
+et beaucoup d'autres que nous avions trouvé ;
+
+344
+00:31:50,100 --> 00:31:54,100
+quelqu'un d'autre l'avait écrit pour ses
+propres fins mais ça faisait le travail
+
+345
+00:31:54,200 --> 00:31:57,500
+et donc nous l'avons mis en service
+en tant que partie intégrante de GNU.
+
+346
+00:31:58,000 --> 00:32:03,000
+Il nous manquait un composant majeur :
+le composant appelé "noyau".
+
+347
+00:32:03,500 --> 00:32:07,500
+Donc c'était très pratique
+que Linus Torvalds ait écrit un noyau.
+
+348
+00:32:08,000 --> 00:32:14,000
+À ce stade, combiner son noyau, Linux,
+avec le système plus large qu'était GNU 
+
+349
+00:32:14,500 --> 00:32:18,500
+produisit un système complet et opérationnel
+
+350
+00:32:18,600 --> 00:32:21,600
+que tu pouvais vraiment mettre sur
+ton PC et faire fonctionner.
+
+351
+00:32:22,000 --> 00:32:29,000
+Donc une fois que Linux était développé,
+le système GNU était en réalité complet !
+
+352
+00:32:29,500 --> 00:32:34,500
+Et ça commença à prendre en
+popularité, mais au même moment
+
+353
+00:32:34,600 --> 00:32:38,600
+une chose fâcheuse se produisit.
+Les gens gens qui utilisaient
+
+354
+00:32:39,000 --> 00:32:42,000
+le système GNU ne réalisaient pas
+que c'était le système GNU.
+
+355
+00:32:42,500 --> 00:32:48,500
+Donc ils commencèrent à appeler
+l'ensemble tout entier "Linux"
+
+356
+00:32:49,000 --> 00:32:51,000
+et cette confusion se propagea.
+
+357
+00:32:51,500 --> 00:32:55,500
+En conséquence, c'est très difficile
+pour nous dans le projet GNU
+
+358
+00:32:56,000 --> 00:33:01,000
+d'attirer l'attention de l'utilisateur
+sur les questions éthiques et politiques.
+
+359
+00:33:01,500 --> 00:33:05,500
+<i>Les rapaces peuvent se
+faire un tas d'argent.</i>
+
+360
+00:33:06,000 --> 00:33:12,000
+<i>C'est bien vrai, hackers,
+c'est bien vrai.</i>
+
+361
+00:33:12,500 --> 00:33:16,500
+<i>Mais ils ne peuvent
+pas aider leurs voisins.</i>
+
+362
+00:33:17,000 --> 00:33:21,000
+<i>C'est pas bien, hackers,
+c'est pas bien !</i>
+
+363
+00:33:21,500 --> 00:33:27,500
+La plupart de la science informatique aux États-Unis
+vient traditionnellement du milieu militaire.
+
+364
+00:33:27,600 --> 00:33:29,600
+et du budget de la défense.
+
+365
+00:33:30,000 --> 00:33:36,000
+Ce n'est peut-être plus farfelu aujourd'hui
+que le mouvement du logiciel libre
+
+366
+00:33:36,500 --> 00:33:40,500
+trouve de la place à la fois pour
+Richard Stallman et pour des idéaux libertaires.
+
+367
+00:33:41,000 --> 00:33:45,000
+Beaucoup virent le logiciel libre aussi
+comme une nouvelle façon de faire de l'argent
+
+368
+00:33:45,100 --> 00:33:47,100
+et avaient besoin d'un concept concept moins radical.
+
+369
+00:33:47,500 --> 00:33:50,500
+Voici l'Open Source.
+
+370
+00:33:51,000 --> 00:33:53,000
+"Je veux que tu sois un
+développeur Open Source"
+
+371
+00:33:57,000 --> 00:34:02,000
+Nous nous sommes penchés sur l'histoire de la
+défense des droits dans ce qui, à l'époque, était
+
+372
+00:34:02,100 --> 00:34:05,100
+toujours principalement appelé le mouvement
+du "logiciel libre" et nous avons conclus
+
+373
+00:34:05,200 --> 00:34:06,900
+que ça n'avait pas marché !
+
+374
+00:34:07,000 --> 00:34:12,000
+Qu'en fait la rhétorique et les tactiques
+utilisées par Richard Stallman et la
+
+375
+00:34:12,500 --> 00:34:15,500
+Fondation du Logiciel Libre nous avait 
+laissés en pire état qu'initialement.
+
+376
+00:34:17,000 --> 00:34:21,000
+Le terme "source ouverte" n'implique plus
+vraiment les problématiques politiques
+
+377
+00:34:21,500 --> 00:34:26,500
+contrairement au terme "logiciel libre"
+
+378
+00:34:27,000 --> 00:34:30,000
+Il y a maintenant un deuxième mouvement,
+le mouvement "Open Source",
+
+379
+00:34:30,500 --> 00:34:34,500
+où ils considèrent seulement
+les avantages pratiques.
+
+380
+00:34:35,000 --> 00:34:40,000
+Ils refusent, et je dit ça littéralement, 
+ils évitent soigneusement
+
+381
+00:34:40,500 --> 00:34:46,500
+les questions de principe, de liberté, d'éthique,
+et d'édification d'une société où il fait bon vivre.
+
+382
+00:34:48,000 --> 00:34:51,000
+Ce genre de langage est
+implicitement menaçant pour les gens
+
+383
+00:34:51,500 --> 00:34:57,500
+dont les préoccupations quotidiennes sont : "Comment
+est-ce que j'augmente la valeur de mes actions ?"
+
+384
+00:34:57,600 --> 00:34:59,600
+"Comment est-ce que je garde
+le contrôle de mon business ?"
+
+385
+00:35:00,000 --> 00:35:05,000
+"Comment est-ce que je résous
+mes problèmes concrets, terre à terre"
+
+386
+00:35:05,100 --> 00:35:09,000
+Ce genre de personne, quand tu vas dans leurs bureaux et
+que tu dis : "vous ne devriez utiliser que du code ouvert"
+
+387
+00:35:09,500 --> 00:35:15,500
+"pour votre activité car partager c'est bien
+et être avare c'est mal..." Ça ne marche pas !
+
+388
+00:35:16,000 --> 00:35:21,000
+Je ne suis pas contre les affaires.
+Je ne crois pas qu'il faille abolir les entreprises.
+
+389
+00:35:21,100 --> 00:35:26,900
+Je fais moi-même des affaires. Mais je crois
+que le business ne devrait pas dominer toute la vie.
+
+390
+00:35:27,000 --> 00:35:33,000
+Les règles de notre société ne devraient pas être
+choisies avant tout pour plaire aux entreprises.
+
+391
+00:35:33,500 --> 00:35:38,500
+Début 1998, la majorité de l'utilisation dans
+la communauté alla de "logiciel libre"
+
+392
+00:35:39,000 --> 00:35:45,000
+à "Open Source" en à peine six semaines.
+À la fin du printemps ou au début de l'été 1998.
+
+393
+00:35:45,500 --> 00:35:50,500
+Et ça m'a dit qu'il y avait eu une énorme
+demande refoulée dans la communauté
+
+394
+00:35:50,500 --> 00:35:54,500
+pour expliquer ce que nous faisions
+de manière plus efficace.
+
+395
+00:35:55,000 --> 00:35:59,000
+Toute l'attitude de la presse boursière
+et de la communauté des investisseurs
+
+396
+00:35:59,100 --> 00:36:01,100
+s'était complètement retournée !
+
+397
+00:36:02,500 --> 00:36:08,500
+Les mêmes personnes qui avaient passé des années et
+des années à se moquer et mépriser "l'Open Source"
+
+398
+00:36:09,000 --> 00:36:13,000
+et parler de fous en sandales avec des cheveux longs...
+
+399
+00:36:13,500 --> 00:36:19,500
+Ces même personnes, en moins d'un an,
+se mettaient toutes à écrire
+
+400
+00:36:20,000 --> 00:36:23,000
+des articles de louanges sur les merveilles du logiciel
+libre et de la revue par des pairs de code ouvert
+
+401
+00:36:23,500 --> 00:36:26,500
+et c'était vraiment marrant
+parce que c'était le même logiciel
+
+402
+00:36:26,600 --> 00:36:29,600
+et dans la plupart des cas
+les mêmes personnes !
+
+403
+00:36:30,000 --> 00:36:33,000
+"Le Robin des bois des intellos"
+
+404
+00:36:33,500 --> 00:36:36,500
+"Martin Luther, voici Linus Torvalds"
+
+405
+00:36:38,000 --> 00:36:43,000
+<i>Linux s'est produit sans
+l'aide des gens aux poches pleines,</i>
+
+406
+00:36:43,100 --> 00:36:45,100
+<i>-ou même malgré l'aide.</i>
+
+407
+00:36:45,500 --> 00:36:51,500
+<i>Comment peut-on se garder de détruire la magie
+en déversant tout cet argent dans Linux ?</i>
+
+408
+00:36:52,000 --> 00:36:54,000
+Quand Linux a commencé à être commercialisé
+
+409
+00:36:54,500 --> 00:36:59,500
+les gens disaient : "nous aimerions
+le garder comme notre petit projet à nous,"
+
+410
+00:37:00,000 --> 00:37:02,000
+"et personne ne devrait se
+faire de l'argent dessus."
+
+411
+00:37:02,500 --> 00:37:08,500
+Et bien, dans le monde réel, les gens se font de l'argent
+sur les choses. Les États-Unis sont une société capitaliste
+
+412
+00:37:08,600 --> 00:37:11,600
+et l'Europe est une société capitaliste.
+
+413
+00:37:11,700 --> 00:37:16,900
+Pour que les entreprises commencent à utiliser Linux
+
+414
+00:37:17,000 --> 00:37:22,500
+elles veulent quelqu'un assis là,
+qui peut leur donner de l'aide,
+
+415
+00:37:23,000 --> 00:37:25,000
+leur vendre le matériel, ce genre de chose.
+
+416
+00:37:25,100 --> 00:37:31,100
+Et ces gens qui vendent du matériel
+et du support vont se faire de l'argent.
+
+417
+00:37:34,000 --> 00:37:37,000
+Tout le monde n'est pas un hacker.
+
+418
+00:37:37,500 --> 00:37:43,500
+En réalité, très peu feraient l'effort
+de télécharger Linux sur le net. 
+
+419
+00:37:44,000 --> 00:37:49,000
+Encore moins s'attaqueraient au code
+lui-même dans le but de l'améliorer.
+
+420
+00:37:49,500 --> 00:37:53,500
+Bien que Linux était difficile à utiliser,
+les clients appréciaient fortement 
+
+421
+00:37:53,600 --> 00:37:57,600
+sa fiabilité et son code source ouvert.
+
+422
+00:37:58,000 --> 00:38:03,000
+Il y avait une opportunité pour les
+entreprises avec de nouvelles visions.
+
+423
+00:38:09,000 --> 00:38:11,000
+"Red Hat"
+
+424
+00:38:13,000 --> 00:38:16,000
+Pour Red Hat, l'important
+n'était pas de livrer un meilleur
+
+425
+00:38:16,100 --> 00:38:19,100
+système d'exploitation que celui de
+Microsoft, ou Sun Microsystems.
+
+426
+00:38:19,200 --> 00:38:22,500
+Ce qui est important c'est que nous
+livrions un système d'exploitation
+
+427
+00:38:22,600 --> 00:38:25,600
+qui résout un problème pour nos clients
+qu'ils ne peuvent résoudre
+
+428
+00:38:25,700 --> 00:38:29,700
+en utilisant les logiciels propriétaires
+traditionnels, en "binaire seulement".
+
+429
+00:38:30,500 --> 00:38:33,500
+En fait, ce qu'on faisait c'était 
+
+430
+00:38:33,600 --> 00:38:35,900
+qu'on construisait de la technologie,
+et après on en faisait cadeau !
+
+431
+00:38:36,000 --> 00:38:39,000
+Donc on disait : "Alors, comment
+vous faites de l'argent avec ça ?"
+
+432
+00:38:40,500 --> 00:38:43,500
+Bien sûr, on allait en Californie, à la
+Silicon Valley, et tout le monde disait :
+
+433
+00:38:43,600 --> 00:38:46,600
+"Bon, vous ne pouvez pas faire
+de l'argent dans le business du logiciel"
+
+434
+00:38:46,700 --> 00:38:49,400
+"en donnant votre technologie."
+
+435
+00:38:49,500 --> 00:38:53,500
+Alors on revenait et on parlait à nos clients,
+et on se rendait compte que la seule chose
+
+436
+00:38:53,600 --> 00:38:57,900
+qui rendait nos clients loyaux,
+c'est bien qu'on leur donnait notre technologie.
+
+437
+00:38:58,000 --> 00:39:03,000
+Pour la toute première fois, ils avaient le
+contrôle sur la technologie qu'ils utilisaient.
+
+438
+00:39:03,100 --> 00:39:07,100
+La vraie valeur dans la plupart des produits logiciel,
+c'est la maintenance active au fil de l'eau,
+
+439
+00:39:07,200 --> 00:39:10,200
+la relation d'aide continue entre le vendeur et vous.
+
+440
+00:39:11,000 --> 00:39:14,000
+C'est ce qui, fondamentalement,
+donne au logiciel les caractéristiques
+
+441
+00:39:14,500 --> 00:39:17,500
+d'une industrie de service
+plutôt que d'une industrie de fabrication.
+
+442
+00:39:20,500 --> 00:39:24,000
+Linux est florissant dans le domaine
+des serveurs Internet. 
+
+443
+00:39:25,500 --> 00:39:29,500
+Mais parce qu'il n'y a pas eu de logiciel
+facile à utiliser pour les particuliers,
+
+444
+00:39:30,000 --> 00:39:34,000
+il ne possède qu'une petite part de marché
+pour les ordinateurs de bureau.
+
+445
+00:39:35,500 --> 00:39:41,500
+Le projet GNOME, avec son interface graphique,
+essaye de combler cette lacune.
+
+446
+00:39:43,500 --> 00:39:49,000
+Mais l'élitisme des hackers semble poursuivre Linux.
+
+447
+00:39:51,000 --> 00:39:54,000
+Tu vois qui est là ?
+C'est un pingouin !
+
+448
+00:39:54,800 --> 00:39:57,500
+- C'est Tux, en fait...
+- Salut Tux !
+
+449
+00:39:59,000 --> 00:40:03,000
+<i>Quand Linux Torvalds fait des
+millionnaires et milliardaires</i>
+
+450
+00:40:03,100 --> 00:40:09,000
+<i>les cheveux de Bill Gates deviennent gris...</i>
+
+451
+00:40:11,000 --> 00:40:13,000
+Microsoft a un modèle très traditionnel :
+
+452
+00:40:13,100 --> 00:40:17,000
+ils font du code source fermé,
+ils le mettent sur un CD, et vendent ça.
+
+453
+00:40:17,500 --> 00:40:20,500
+Ils supportent eux-même tout
+le fardeau du développement.
+
+454
+00:40:20,600 --> 00:40:22,500
+Tout passe par eux.
+
+455
+00:40:23,000 --> 00:40:28,000
+Une fois que vous êtes dans ce secteur,
+c'est très dur de changer de culture.
+
+456
+00:40:28,500 --> 00:40:32,500
+C'est très difficile d'aller vers
+une activité basée sur la coopération.
+
+457
+00:40:35,000 --> 00:40:39,000
+C'est plus facile de faire de l'argent
+sur des produit au code source fermé 
+
+458
+00:40:39,500 --> 00:40:43,500
+s'il n'y a pas le besoin de...
+ou avec une énorme part de marché.
+
+459
+00:40:44,000 --> 00:40:47,000
+Donc, par exemple, Microsoft n'a pas beaucoup d'intérêt
+
+460
+00:40:47,100 --> 00:40:50,000
+à ouvrir leur code source maintenant
+
+461
+00:40:50,500 --> 00:40:53,500
+et ça prendrait probablement une partie
+de leurs profits, donc je ne pense pas
+
+462
+00:40:53,600 --> 00:40:55,500
+qu'ils vont le faire,
+ou du moins pas de leur plein gré.
+
+463
+00:40:56,000 --> 00:41:01,000
+Il y a des algorithmes qu'en fait
+il vaut mieux garder propriétaire.
+
+464
+00:41:01,500 --> 00:41:04,500
+Par exemple, je connais certains algorithmes
+de compression dans lesquels des entreprises
+
+465
+00:41:04,600 --> 00:41:07,500
+ont mis énormément de travail, pour
+des choses comme la diffusion de média.
+
+466
+00:41:08,000 --> 00:41:11,000
+Et ils ne veulent pas que les gens
+sachent comment ils ont fait ça
+
+467
+00:41:11,100 --> 00:41:13,000
+parce que c'est exactement "comment ils font ça"
+qui est la valeur de leur produit.
+
+468
+00:41:18,000 --> 00:41:23,000
+C'est la bataille entre Linus,
+qui est le dirigeant de Linux
+
+469
+00:41:23,100 --> 00:41:27,000
+et Bill Gates, qui dirige Microsoft.
+
+470
+00:41:27,100 --> 00:41:30,000
+Et ça devient très personnel.
+
+471
+00:41:33,000 --> 00:41:38,000
+Ensuite, pour notre question bizarre :
+"À qui sont ces lèvres ?"
+
+472
+00:41:40,000 --> 00:41:45,000
+Et comme réponse : les lèvres de Bill Gates
+qui racontent encore un mensonge...
+
+473
+00:41:52,000 --> 00:41:56,000
+L'acceptation de Linux a été
+énormément aidée par le fait
+
+474
+00:41:56,500 --> 00:42:01,500
+que les gens ont su que
+Linux existe par les infos.
+
+475
+00:42:02,000 --> 00:42:08,000
+Le récit à la "David contre Goliath" a aidé,
+mais je ne pense pas que c'était particulièrement vrai.
+
+476
+00:42:08,000 --> 00:42:13,000
+"Ballmer de Microsoft Déclare
+que Linux est Communisme"
+
+477
+00:42:16,000 --> 00:42:18,000
+- Vous êtes un socialiste...
+
+478
+00:42:18,000 --> 00:42:20,000
+- C'est l'une des étiquettes
+que les gent mettent sur moi.
+
+479
+00:42:20,100 --> 00:42:21,100
+- Est-ce vrai ?
+
+480
+00:42:22,000 --> 00:42:26,000
+Ce n'est pas un secret que j'étais de
+l'extrême gauche à la fin des années 60.
+
+481
+00:42:27,000 --> 00:42:34,000
+L'organisation des étudiants de l'ONU était
+à l'origine de la plupart des manifestations.
+
+482
+00:42:36,000 --> 00:42:40,000
+Ma croyance personnelle est
+plutôt basée sur l'honneur.
+
+483
+00:42:40,500 --> 00:42:47,500
+Je me fiche de ce que font les autres...
+Je veux faire ce qui me semble être juste.
+
+484
+00:42:48,000 --> 00:42:55,000
+Linus entretien une distance
+très stricte avec la politique.
+
+485
+00:42:56,000 --> 00:43:00,000
+Je pense qu'il a légèrement
+souffert dans son enfance
+
+486
+00:43:01,000 --> 00:43:06,000
+de son père qui était si actif politiquement
+
+487
+00:43:06,000 --> 00:43:10,000
+It is also about
+having a social conscience-
+
+488
+00:43:10,500 --> 00:43:15,500
+-and if you call that socialism
+then, yeah, I guess I'm socialist...
+
+489
+00:43:17,000 --> 00:43:24,000
+He is radical within a very restricted
+area, where he sets the limits himself.
+
+490
+00:43:24,500 --> 00:43:31,500
+He is very reluctant
+to take part in fuzzy political discourse-
+
+491
+00:43:32,000 --> 00:43:36,000
+-and there's the difference
+between the pragmatist-
+
+492
+00:43:36,500 --> 00:43:41,500
+-who wants to work with concrete
+stuff and not let the steam-
+
+493
+00:43:42,000 --> 00:43:49,000
+-go out through his ears,
+like we used to do in the 1960's.
+
+494
+00:43:52,000 --> 00:43:56,000
+This is a community. You can take
+but you must give back!
+
+495
+00:43:56,500 --> 00:43:59,500
+I am very pleased to
+announce to you today-
+
+496
+00:43:59,600 --> 00:44:03,100
+-the winner of this year's
+IDG/Linus Torvalds award is: Debian.
+
+497
+00:44:07,000 --> 00:44:13,000
+It's good that the Linux community has
+been fairly positive towards new things,-
+
+498
+00:44:13,100 --> 00:44:15,100
+-including the commercial aspects.
+
+499
+00:44:15,200 --> 00:44:19,200
+Hi, I'm from Brazil, and
+I'd like to know what can we do-
+
+500
+00:44:19,300 --> 00:44:21,300
+-to bring you to Brazil in May next year?
+
+501
+00:44:21,500 --> 00:44:24,500
+-Hey, are you coming to the
+VA party wednesday night?
+
+502
+00:44:24,600 --> 00:44:26,600
+-I will almost certainly
+be there, yes. But I need to go now...
+
+503
+00:44:27,000 --> 00:44:31,000
+-I'm hearing that you're going shooting?
+-You come with us, man!
+
+504
+00:44:31,100 --> 00:44:32,100
+-Nooo...
+
+505
+00:44:40,000 --> 00:44:44,300
+A lot of communities worry that these big
+enterprises, these big commercial vendors-
+
+506
+00:44:44,400 --> 00:44:46,400
+-are not going to be able to
+give back to the community.
+
+507
+00:44:46,500 --> 00:44:53,500
+The thing is that people expect other
+people to be nice and take care of things-
+
+508
+00:44:53,600 --> 00:44:57,600
+-and I don't think that is true,
+and I don't think that it should be true-
+
+509
+00:44:57,700 --> 00:45:04,500
+-and I think that the power of Linux
+is that even if nobody else helps you-
+
+510
+00:45:04,600 --> 00:45:09,600
+-an inch of the way, you
+still have your own copy of Linux-
+
+511
+00:45:09,700 --> 00:45:13,400
+-and you still have your own
+power to do whatever you want...
+
+512
+00:45:13,500 --> 00:45:17,900
+I want to avoid the politics of Linux.
+
+513
+00:45:18,000 --> 00:45:25,000
+I want to be somebody that everybody
+agrees is a nice guy and he doesn't bite!
+
+514
+00:45:28,000 --> 00:45:30,000
+-One last question?
+-Sure!
+
+515
+00:45:31,500 --> 00:45:32,500
+-I'm from India.
+
+516
+00:45:32,600 --> 00:45:34,900
+Do you get a lot of developers
+from India contributing to the kernel?
+
+517
+00:45:35,000 --> 00:45:36,000
+Not that many.
+
+518
+00:45:36,100 --> 00:45:39,900
+What is the message that you would like
+to give them so that you get more of them.
+
+519
+00:45:40,000 --> 00:45:43,000
+I think one of the
+problems is just infrastructure.
+
+520
+00:45:43,100 --> 00:45:47,200
+They don't even necessarily have Internet
+access, or have very slow access.
+
+521
+00:45:47,600 --> 00:45:54,600
+I think that people are maybe not used
+to do this collaboration on the Internet.
+
+522
+00:45:53,500 --> 00:45:56,000
+They're kind of nervous, right?
+
+523
+00:45:56,100 --> 00:45:59,600
+Any message you wanna give them to
+motivate them to get more developers?
+
+524
+00:46:00,000 --> 00:46:05,000
+I don't know what the issues are in
+India, but there are going to be issues.
+
+525
+00:46:05,100 --> 00:46:09,100
+Like local issues that
+Indians want to be able to do things-
+
+526
+00:46:09,200 --> 00:46:14,200
+-that the American
+continent doesn't care about at all.
+
+527
+00:46:15,000 --> 00:46:19,000
+And I think that's really
+motivational when somebody says:
+
+528
+00:46:19,100 --> 00:46:22,500
+"Hey, I can solve this!
+I can make my own version of Linux-
+
+529
+00:46:23,000 --> 00:46:27,000
+-and it will be better
+for me as an Indian or whatever person".
+
+530
+00:46:27,500 --> 00:46:33,500
+And that's how you should be motivated,
+and whatever I say you should not care!
+
+531
+00:46:39,000 --> 00:46:41,000
+Thank you very much!
+
+532
+00:46:41,100 --> 00:46:46,500
+-You come down to India next time...
+-I will try to...
+
+533
+00:46:48,000 --> 00:46:51,000
+Do you want to take a
+picture for a Dutch magazine?
+
+534
+00:46:52,000 --> 00:46:55,000
+Are you planning on
+coming to the Netherlands?
+
+535
+00:46:57,000 --> 00:47:04,000
+The real value of Linux may be some-
+where else than knocking Microsoft out.
+
+536
+00:47:06,000 --> 00:47:11,000
+Linux was designed to run on a cheap
+hardware and to solve common problems.
+
+537
+00:47:13,000 --> 00:47:18,500
+If you are poor it is a
+real alternative, free of charge.
+
+538
+00:47:19,000 --> 00:47:24,000
+The Linux project started
+in Europe and the United States.
+
+539
+00:47:24,500 --> 00:47:28,500
+But now, free software
+allows it to find ever more-
+
+540
+00:47:28,600 --> 00:47:31,000
+-new programmers
+from new sources-
+
+541
+00:47:32,000 --> 00:47:36,000
+-from regions where
+computing is still in its infancy.
+
+542
+00:47:40,000 --> 00:47:43,000
+Beijing, China
+
+543
+00:47:46,000 --> 00:47:51,000
+China is behind the developed
+countries in the IT industry.
+
+544
+00:47:51,500 --> 00:47:54,500
+The gap is big and
+we try to catch up as fast we can.
+
+545
+00:47:54,600 --> 00:47:58,500
+During this we have to borrow
+from other countries' experiences.
+
+546
+00:47:59,000 --> 00:48:02,000
+We put a great importance
+on the operating system.
+
+547
+00:48:02,500 --> 00:48:06,500
+We did some
+development work based on UNIX-
+
+548
+00:48:07,000 --> 00:48:10,000
+Due to tight market control
+we were not able to succeed.
+
+549
+00:48:10,500 --> 00:48:13,500
+Linux provides us
+with a very good opportunity
+
+550
+00:48:13,600 --> 00:48:18,500
+-and a base to learn
+from advanced technology.
+
+551
+00:48:19,000 --> 00:48:24,000
+"The Chinese Red Army
+delighted with Linux"
+
+552
+00:48:27,000 --> 00:48:33,000
+I think that this is the greatest
+transfer of wealth we may have ever seen-
+
+553
+00:48:33,100 --> 00:48:37,100
+-between the industrialized
+rich north, and put Europe and-
+
+554
+00:48:37,200 --> 00:48:42,200
+-the United States together
+in that, and the third world!
+
+555
+00:49:01,000 --> 00:49:05,000
+It's the open source.
+
+556
+00:49:05,500 --> 00:49:10,500
+I think this is
+important to many people.
+
+557
+00:49:11,000 --> 00:49:16,000
+I like philosophy, and I like to analyze
+matters from a philosophic perspective.
+
+558
+00:49:16,500 --> 00:49:20,500
+The open source is in
+accordance with the spirit of science-
+
+559
+00:49:21,000 --> 00:49:24,000
+-the free and unrestricted
+access to information.
+
+560
+00:49:24,500 --> 00:49:27,500
+Nothing should be hidden.
+That's my first impression of Linux.
+
+561
+00:49:34,000 --> 00:49:38,000
+The spirit could be
+expanded to other fields.
+
+562
+00:49:38,500 --> 00:49:44,500
+I never feel that this
+only applies in the computer field.
+
+563
+00:49:46,000 --> 00:49:52,000
+You have one of the most privileged
+classes in capitalism: programmers!
+
+564
+00:49:52,100 --> 00:49:55,100
+They can make so much
+money from working as programmers-
+
+565
+00:49:55,200 --> 00:49:58,400
+-that they have the time
+to devote to their own hobbies.
+
+566
+00:49:58,500 --> 00:50:02,000
+Programmers like Alan Cox,
+they could name their price!
+
+567
+00:50:02,500 --> 00:50:05,500
+Here are these people who
+are at the top of the heap, and through-
+
+568
+00:50:05,600 --> 00:50:09,600
+-the structure of transfer of intellectual
+property they've come up with,-
+
+569
+00:50:09,700 --> 00:50:12,700
+-they're transferring that wealth.
+
+570
+00:50:12,800 --> 00:50:15,800
+It is socialism in action,
+even if the libertarians-
+
+571
+00:50:15,900 --> 00:50:20,900
+-are horrified
+whenever that is mentioned.
+
+572
+00:50:35,000 --> 00:50:40,000
+Open source projects have been
+compared to the way science is created.
+
+573
+00:50:40,100 --> 00:50:42,500
+Science in itself
+doesn't make money-
+
+574
+00:50:43,000 --> 00:50:48,000
+The wealth comes as
+the result of applications.
+
+575
+00:50:49,000 --> 00:50:53,000
+For the open source
+hackers developing Linux-
+
+576
+00:50:53,100 --> 00:50:59,000
+-has traditionally been a science-
+like voluntary project. A hobby.
+
+577
+00:51:01,000 --> 00:51:05,500
+Eventually, the best
+Linux hackers were enlisted.
+
+578
+00:51:06,000 --> 00:51:12,500
+In 1999, during the dot-com boom,
+some of the Linux companies went public.
+
+579
+00:51:13,000 --> 00:51:17,500
+Wall Street announced record-
+breaking value for Linux stock.
+
+580
+00:51:18,000 --> 00:51:22,000
+Of course it didn't last,
+but for a period of time-
+
+581
+00:51:22,100 --> 00:51:26,500
+-some Linux hackers
+were filthy rich - on paper.
+
+582
+00:51:28,000 --> 00:51:32,000
+Just about everyone who
+was a core developer before-
+
+583
+00:51:32,100 --> 00:51:35,100
+-all this whoopla about people
+making money doing Linux-
+
+584
+00:51:35,200 --> 00:51:39,500
+-have kept to their
+values in taking these jobs.
+
+585
+00:51:40,000 --> 00:51:44,000
+Most of the ones I keep in contact with,
+have a very crucial position and are-
+
+586
+00:51:44,100 --> 00:51:47,400
+-pretty much doing all of the Linux work
+they were doing before they had the job-
+
+587
+00:51:47,500 --> 00:51:53,500
+-with the same levels of freedom, as well.
+I still got changes from people every day-
+
+588
+00:51:54,000 --> 00:52:00,000
+-I still submitted them to Linus, the
+same way I always did before the IPO.
+
+589
+00:52:01,000 --> 00:52:05,000
+Some of us are driving nicer cars than
+beforehand. That's the only difference.
+
+590
+00:52:05,100 --> 00:52:08,100
+Maybe we're eating
+a little bit more sushi.
+
+591
+00:52:09,000 --> 00:52:13,400
+There are some people who got lucky,
+joined the right company at the right time.
+
+592
+00:52:13,500 --> 00:52:20,500
+Managed to participate in the IPO
+lottery and there are some people who-
+
+593
+00:52:21,000 --> 00:52:25,000
+-got millions of dollars, and there are
+some people who got billions of dollars!
+
+594
+00:52:25,100 --> 00:52:30,100
+Did those people actually contribute more
+to the company than those other people?
+
+595
+00:52:30,200 --> 00:52:33,200
+In some cases they just
+happened to contribute the right-
+
+596
+00:52:33,300 --> 00:52:35,300
+-amount of investment
+money at the right time.
+
+597
+00:52:35,400 --> 00:52:39,500
+I think that's a generic problem that's
+not unique to the open source community.
+
+598
+00:52:41,000 --> 00:52:45,000
+I don't know if we actually
+have a good solution for that.
+
+599
+00:52:47,000 --> 00:52:51,000
+Part of what I like about
+Silicon Valley is just that it's so dynamic,-
+
+600
+00:52:51,100 --> 00:52:53,100
+-and you can do anything here.
+
+601
+00:52:53,100 --> 00:52:58,200
+And even the money-grabbing
+approach. Even if it's slightly tasteless-
+
+602
+00:52:58,300 --> 00:53:03,000
+-especially when you come from Europe,
+it's a really good motivational factor.
+
+603
+00:53:03,500 --> 00:53:07,500
+It's a really good way
+of getting things done.
+
+604
+00:53:08,000 --> 00:53:12,000
+Has it changed me?
+I assume so.
+
+605
+00:53:12,500 --> 00:53:16,500
+I'm not the same
+person I was when I moved-
+
+606
+00:53:17,000 --> 00:53:23,000
+-but I don't think it's made me all that
+more money-conscious than I used to be.
+
+607
+00:53:29,000 --> 00:53:33,000
+2001 - Imagined by Stanley Kubrick.
+
+608
+00:53:33,500 --> 00:53:38,500
+In the most ambitious and
+grotesque PR stunt in history-
+
+609
+00:53:39,000 --> 00:53:44,000
+-suicide hijackers blitz America
+with far-reaching consequences.
+
+610
+00:53:44,500 --> 00:53:48,500
+IT recession
+affects also open source.
+
+611
+00:53:49,000 --> 00:53:54,000
+No longer does Linus have to act
+in public all the time as an enlightened-
+
+612
+00:53:54,100 --> 00:54:00,500
+-philosopher ruler, harassed by the media.
+With the coolness of Linux still intact-
+
+613
+00:54:01,000 --> 00:54:04,000
+-the phenomenon
+disappears into gadgets.
+
+614
+00:54:04,100 --> 00:54:09,900
+Invisible pieces of technology for
+households and entertainment industry.
+
+615
+00:54:10,000 --> 00:54:16,000
+Gradually, many of us turn into
+Linux users when the code infiltrates-
+
+616
+00:54:16,100 --> 00:54:20,500
+-our clocks, toasters
+and mobile phones.
+
+617
+00:54:21,000 --> 00:54:27,000
+As for bigger ideals, it could be one of the
+greatest missed opportunities of our times-
+
+618
+00:54:27,500 --> 00:54:33,500
+-if free software
+liberated nothing but code.
+
+619
+00:54:43,000 --> 00:54:47,000
+There's no question that
+development of technology-
+
+620
+00:54:47,100 --> 00:54:50,100
+-is just going to make
+Linux obsolete at some point.
+
+621
+00:54:50,200 --> 00:54:54,500
+The question is just:
+"How long will it take?"
+
+622
+00:55:02,000 --> 00:55:07,000
+Will it be in 5 years, or
+15 years or will it be 50 years?
+
+623
+00:55:07,100 --> 00:55:11,500
+I think one of the powers of
+open source is that in 50 years-
+
+624
+00:55:12,000 --> 00:55:16,000
+-the next operating system
+that's the best at the time-
+
+625
+00:55:16,500 --> 00:55:22,500
+-will be able to take advantage
+of the source base that Linux had.
+
+626
+00:55:23,000 --> 00:55:27,000
+The source code itself is
+going to be the memory of Linux-
+
+627
+00:55:27,500 --> 00:55:31,900
+-and people can always
+use that as a kind of blueprint.
+
+628
+00:55:32,000 --> 00:55:37,000
+But there's more in that.
+There's also the intangible issues-
+
+629
+00:55:37,100 --> 00:55:41,500
+-about why things
+were designed a certain way.
+
+630
+00:55:41,600 --> 00:55:48,000
+I think those are out
+there even if I weren't out there...
+
+631
+00:55:57,000 --> 00:56:00,000
+The Code - Story of Linux ©2001

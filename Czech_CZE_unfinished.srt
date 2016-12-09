@@ -1,0 +1,2119 @@
+1
+00:00:20,000 --> 00:00:22,000
+Dovolte mi uvést analogii
+
+2
+00:00:22,000 --> 00:00:26,000
+Analogii mezi programy a recepty
+
+3
+00:00:26,000 --> 00:00:31,000
+Program je jako recept.
+Je to seznam kroků, které je třeba udělat.
+
+4
+00:00:31,000 --> 00:00:36,000
+Pravidla, určující co udělat,
+kde se vrátit.
+
+5
+00:00:36,000 --> 00:00:39,000
+A na konci je nějaký výsledek.
+
+6
+00:00:39,000 --> 00:00:44,000
+Jestli vaříte, pravděpodobně si
+vyměňujete recepty s přáteli.
+
+7
+00:00:44,000 --> 00:00:48,000
+A pravděpodobně recepty i upravujete.
+
+8
+00:00:48,000 --> 00:00:51,000
+A když uděláte změnu a výsledek se vám líbí...
+
+9
+00:00:51,000 --> 00:00:53,000
+...a zachutná to i vašim přátelům...
+
+10
+00:00:53,000 --> 00:00:57,000
+...můžete jim dát změněnou verzi receptu.
+
+11
+00:00:57,000 --> 00:01:03,000
+Teď si představte svět,
+ve kterém se nesmí recepty upravovat...
+
+12
+00:01:03,000 --> 00:01:08,000
+...protože někdo se hodně snažil
+aby jakékoliv změny znemožnil.
+
+13
+00:01:08,000 --> 00:01:13,000
+Představte si, že když se
+podělíte o recept s přáteli...
+
+14
+00:01:13,000 --> 00:01:30,000
+...nazvou vás pirátem a pokusí se vás
+zavřít do vězení na celá léta.
+
+15
+00:01:30,000 --> 00:01:39,000
+Kód Linux
+
+16
+00:01:39,000 --> 00:01:44,000
+codelinux@pizi.cz
+
+17
+00:01:44,000 --> 00:01:48,000
+Přeloženo z angličtiny
+a polských titulků :-)
+
+18
+00:01:48,100 --> 00:01:53,000
+Používám slovo "hacker" v jeho
+správném, původním významu...
+
+19
+00:01:53,000 --> 00:01:59,000
+pro označení osoby, která
+považuje programování za určitý
+druh uměleckého nutkání.
+
+20
+00:01:59,000 --> 00:02:03,000
+A která patří k hackerské kultuře,
+nebo se s ní identifikuje...
+
+21
+00:02:03,000 --> 00:02:08,000
+...čili skupinu programátorů, kteří...
+
+22
+00:02:08,001 --> 00:02:17,000
+jsou historicky spojeni s
+Internetem, Linuxem a WWW.
+
+23
+00:02:21,000 --> 00:02:27,000
+Zřejmě musíte být hacker, abyste
+chápali jejich zvláštní způsob myšlení.
+
+24
+00:02:27,000 --> 00:02:33,000
+Tedy abyste se vzbouřili proti názoru,
+že programy operačního systému
+
+25
+00:02:33,000 --> 00:02:36,000
+musí mít utajený zdrojový kód.
+
+26
+00:02:36,000 --> 00:02:43,000
+Toto pojetí open source neladí
+s konceptem ekonomiky volného trhu.
+
+27
+00:02:43,000 --> 00:02:50,000
+Ohrožuje také tradiční pojetí
+autorských práv a intelektuálního vlastnictví.
+
+28
+00:02:50,000 --> 00:02:54,000
+Firmy jako Microsoft, spoléhající
+na utajený zdrojový kód programů
+
+29
+00:02:54,000 --> 00:02:58,000
+takticky ukazují programování
+zdarma jako příšeru
+
+30
+00:02:58,000 --> 00:03:02,000
+téměř nepředstavitelných rozměrů.
+
+31
+00:03:02,000 --> 00:03:07,000
+To vše vedlo k jednomu z
+nezvláštnějších úspěchů 90. let
+
+32
+00:03:07,000 --> 00:03:13,000
+Epidemii vyvolal talentovaný
+vůdce společenství
+
+33
+00:03:13,000 --> 00:03:19,000
+který zasel semínko hnutí, jehož
+vyznavači pokračují v započatém díle.
+
+34
+00:03:19,001 --> 00:03:23,001
+***
+
+35
+00:03:23,100 --> 00:03:29,000
+Linux - operační systém, který užívá
+8 milionů lidí po celém světě.
+
+36
+00:03:29,001 --> 00:03:37,001
+***
+
+37
+00:03:38,000 --> 00:03:41,333
+Torvaldsovo rozhodnutí o rozšiřování
+Linuxu zdarma
+
+38
+00:03:41,334 --> 00:03:44,000
+a zpřístupnění jeho zdrojového kódu
+
+39
+00:03:44,000 --> 00:03:46,000
+z něj učinila kultovní postavu.
+
+40
+00:03:46,001 --> 00:03:52,001
+***
+
+41
+00:03:52,002 --> 00:03:58,002
+***
+
+42
+00:04:05,000 --> 00:04:11,000
+Tato pracovití mravenečkové jsou stále
+v kontaktu s ostaními pomocí modemů.
+
+43
+00:04:11,000 --> 00:04:19,000
+Zpřístupnění kódu motivovalo k úpravám
+s cílem vytvořit ten, pokud možno nejlepší
+
+44
+00:04:19,100 --> 00:04:24,000
+operační systém na světě.
+
+45
+00:04:31,000 --> 00:04:35,000
+Nechtěl jsem, aby někdo další
+musel projít tím, co já, při hledání
+
+46
+00:04:35,000 --> 00:04:40,000
+nčeho takového jako Linux. Řekl jsem si:
+"Možná nějaký jiný student informatiky
+
+47
+00:04:40,000 --> 00:04:46,000
+potřebuje operační systém
+a nebude muset začínat od začátku."
+
+48
+00:04:46,000 --> 00:04:53,000
+Nebyla to velká válka s větrnými mlýny,
+žádný DonQuiote kontra svět
+
+49
+00:04:53,000 --> 00:05:00,000
+snažící se z něj udělat lepší místo.
+
+50
+00:05:06,000 --> 00:05:11,000
+Raději pracuji s lidmi pomocí e-mailu,
+než tváří v tvář.
+
+51
+00:05:11,000 --> 00:05:17,000
+Tváří v tvář se musíš pouštět do válek argumentů
+a dbát na nedůležité podrobnosti.
+
+52
+00:05:17,000 --> 00:05:26,855
+U e-mailu musíš myslet
+než ho odešleš.
+
+53
+00:05:39,000 --> 00:05:45,000
+To že nejsme na jednom místě
+neznamená, že nejsme spolu v sociálním smyslu.
+
+54
+00:05:45,000 --> 00:05:48,000
+Je to jako bychom sdíleli
+velmi velkou kancelář.
+
+55
+00:05:48,000 --> 00:05:55,000
+Máme celou dobu vlastní
+hádky a debaty přes Internet
+
+56
+00:05:55,000 --> 00:06:00,000
+Je to velký projekt.
+Nevím o žádném jiném programovacím projektu
+
+57
+00:06:00,000 --> 00:06:09,000
+kde by pracovalo tolik lidí, na tolika místech
+kteří to chtějí sestavit společně.
+
+58
+00:06:09,000 --> 00:06:11,935
+Nejvíce udivujicí věcí kolem Linuxu
+
+59
+00:06:12,006 --> 00:06:19,379
+není jeho kód, ale sociální
+systém, který kolem něj vyrostl.
+
+60
+00:06:22,462 --> 00:06:25,576
+Co je Linux?
+Asi bych řekl...
+
+61
+00:06:25,698 --> 00:06:31,151
+Každý počítač je jiný,
+každá floppy mechanika je jiná
+
+62
+00:06:31,861 --> 00:06:34,285
+každý harddisk je jiný,
+každá VGA karta je jiná.
+
+63
+00:06:35,019 --> 00:06:38,823
+a Linux je ta věc, která ví jak
+všechny tyhle rozdílné věci
+
+64
+00:06:39,548 --> 00:06:44,402
+přinutit udělat ty jednoduché
+úkoly, které lidi po počítači chtějí
+
+65
+00:06:44,949 --> 00:06:49,617
+jako zapsat muj soubor na disk,
+přečíst tento soubor z disku
+
+66
+00:06:50,182 --> 00:06:53,432
+nakreslit obrázek na monitor.
+
+67
+00:06:53,912 --> 00:07:01,207
+Linux ví jak ovládat tyhle části,
+abyste mohli dělat svou běžnou práci na počítači.
+
+68
+00:07:04,000 --> 00:07:07,000
+Co máme na mysli, když říkáme "Linux"?
+
+69
+00:07:07,000 --> 00:07:13,000
+Někteří mají na mysli celý operační systém,
+nebo všechna data v počítači.
+
+70
+00:07:13,000 --> 00:07:24,035
+Jiní říkají Linux a myslí jeden
+konkrétní nejdůležitější program - kernel.
+
+71
+00:07:26,000 --> 00:07:28,000
+Musíme se vrátit zpět
+k osobě, která to všechno začala.
+
+72
+00:07:28,000 --> 00:07:34,000
+K osobě, která použila Síť, aby
+vytvořila společenství
+
+73
+00:07:34,000 --> 00:07:38,000
+které bude cítit zodpovědnost.
+
+74
+00:07:38,000 --> 00:07:41,000
+Tato schopnost vedení spolupráce
+
+75
+00:07:41,000 --> 00:07:57,819
+může být specifická jen pro osobu
+pocházející z takové země jako je Finsko.
+
+76
+00:08:04,000 --> 00:08:08,000
+1969 - vypadá to na skvělý rok.
+
+77
+00:08:08,000 --> 00:08:16,000
+Prřistání na Měsíci, Woodstock,
+narozeniny Arpanetu vedoucího k Internetu.
+
+78
+00:08:16,000 --> 00:08:25,000
+První kroky Unixu - operačního systému
+pro velké počítače.
+
+79
+00:08:25,000 --> 00:08:29,025
+A 28. prosince se narodil Linus Torvalds.
+
+80
+00:08:29,054 --> 00:09:16,001
+***
+
+81
+00:09:16,002 --> 00:10:18,620
+***
+
+82
+00:10:19,934 --> 00:10:22,000
+Zravím všechny uživatele Linuxu.
+
+83
+00:10:22,000 --> 00:10:32,000
+Dělám free operační systém - jen koníček,
+nebude velký a profesionální.
+
+84
+00:10:32,000 --> 00:10:36,000
+Začal jsem v dubnu a začíná to být použitelné.
+
+85
+00:10:36,000 --> 00:10:39,000
+Přijmu každý názor týkající se toho,
+co se vám líbí a co ne v Minixu
+
+86
+00:10:39,000 --> 00:10:43,000
+nebo na mé dřívější práci.
+
+87
+00:10:43,000 --> 00:10:48,000
+Všechny návrhy jsou vítány, ale
+neslibuji, že je splním.
+
+88
+00:10:48,000 --> 00:10:54,000
+Linus, torvalds@kruuna.helsinki.fi
+
+89
+00:10:54,000 --> 00:11:00,000
+1991 - Sovětský svaz se hroutí.
+
+90
+00:11:00,000 --> 00:11:03,000
+Válka v zálivu.
+
+91
+00:11:03,000 --> 00:11:07,000
+Anglický vědec Tim Berners-Lee
+vytváří hypertextový systém
+
+92
+00:11:07,000 --> 00:11:14,000
+a nazývá jej World Wide Web.
+
+93
+00:11:14,000 --> 00:11:22,000
+Mikrosoft je na nejlepší cestě k
+ovládnutí světa.
+
+94
+00:11:22,000 --> 00:11:27,000
+A 17. září Linus Torvalds
+
+95
+00:11:27,000 --> 00:11:33,000
+zveřejňuje první verzi Linuxu, 0.01
+na světové Síti.
+
+96
+00:11:33,000 --> 00:11:39,698
+První odpovědi přicházejí
+během několika hodin.
+
+97
+00:11:59,572 --> 00:12:18,425
+***
+
+98
+00:12:28,000 --> 00:12:33,000
+Linus založil Linux na Unixu,
+kvůli jeho jednoduchým principům.
+
+99
+00:12:33,000 --> 00:12:39,000
+Originální Unix vytvořili Ken Thompson
+a Dennis Ritchie
+
+100
+00:12:39,000 --> 00:12:44,000
+v laboratořích AT&T Bellu v roce 1969.
+
+101
+00:12:44,000 --> 00:12:47,000
+Unix byl zpočátku relativně levným
+operačním systémem
+
+102
+00:12:47,000 --> 00:12:51,000
+velmi populárním v univerzitních kruzích.
+
+103
+00:12:51,000 --> 00:12:56,000
+Jeho filozofie byla založena na dvou
+zásadách:
+
+104
+00:12:56,000 --> 00:13:00,000
+Za prvé - všechno je soubor.
+
+105
+00:13:00,000 --> 00:13:05,000
+Za druhé - když něco děláš, píšeš programy
+které slouží jedinému účelu
+
+106
+00:13:05,000 --> 00:13:12,000
+ale plní ho dokonale.
+
+107
+00:13:12,000 --> 00:13:16,756
+Umistění Linuxu na Internet bylo
+přirozené z mnoha důvodů.
+
+108
+00:13:17,777 --> 00:13:24,534
+Existovaly malé důvody,
+jako že jsem to považoval za dobrý nápad
+
+109
+00:13:25,269 --> 00:13:28,129
+abych program zpřístupnil ostatním
+
+110
+00:13:28,902 --> 00:13:32,000
+aby ho mohli vyzkoušet a poslat mi
+své komentáře.
+
+111
+00:13:32,000 --> 00:13:37,000
+Ve skutečnosti měl dvě možnosti.
+Mohl ho udělat zcela free
+
+112
+00:13:37,000 --> 00:13:38,600
+nebo si za něj nechat platit.
+
+113
+00:13:38,769 --> 00:14:30,422
+***
+
+114
+00:14:31,580 --> 00:14:38,000
+Jelikož kopiler, který jsem používal,
+byl vydán pod licencí GPL
+
+115
+00:14:38,000 --> 00:14:45,000
+začal jsem nakonec GPL používat také.
+
+116
+00:14:45,000 --> 00:14:49,000
+General Public Licence (GPL) od GNU
+
+117
+00:14:49,000 --> 00:14:53,000
+vytvořená Free Software Foundation
+v polovině 80. let
+
+118
+00:14:53,000 --> 00:14:57,000
+říká, že jestli měníš kód
+
+119
+00:14:57,000 --> 00:15:02,000
+musíš své změný zpřístupnit každému zdarma.
+
+120
+00:15:02,000 --> 00:15:11,000
+GPL zabraňuje jediné osobě vlastnit
+monopol na část technologie.
+
+121
+00:15:11,000 --> 00:15:14,000
+Myslím, že načasování bylo správné.
+
+122
+00:15:14,000 --> 00:15:18,000
+Možná, že o rok dříve by to bylo nemožné
+
+123
+00:15:18,000 --> 00:15:21,000
+a o rok později by někdo jiný
+udělal něco podobného.
+
+124
+00:15:21,000 --> 00:15:27,000
+Pro většinu populace Internet ještě neexistoval
+
+125
+00:15:27,000 --> 00:15:32,493
+ale nabýval na síle v univerzitních sítích.
+
+126
+00:15:32,998 --> 00:16:07,155
+***
+
+127
+00:16:12,000 --> 00:16:18,000
+Zvolil jsem si nazev FREAX.
+
+128
+00:16:18,000 --> 00:16:23,732
+Což spojuje "free" a "freak" a X
+což musíte mít pro  Unix.
+
+129
+00:16:23,797 --> 00:16:30,241
+***
+
+130
+00:16:30,242 --> 00:16:36,000
+Ari Lemmke, který ho umístil na FTP,
+to považoval za špatný nápad
+
+131
+00:16:36,000 --> 00:16:41,000
+nelíbil se mu ten název.
+
+132
+00:16:41,000 --> 00:16:48,000
+Zpřístupnil místo a nazval ho Linux,
+protože to považoval za lepší řešení.
+
+133
+00:16:48,000 --> 00:16:59,000
+Název zůstal. A Linux
+zní mnohem lépe.
+
+134
+00:16:59,000 --> 00:17:03,000
+Dobrá, máme už reprezentanty Geeků i Nerdů.
+
+135
+00:17:03,000 --> 00:17:06,000
+První otázka z kategorie snadných:
+
+136
+00:17:06,000 --> 00:17:11,000
+Jak se vyslovuje "Linux"?
+
+137
+00:17:11,000 --> 00:17:17,000
+Nuže já vyslovuji Linux jako "Linux".
+
+138
+00:17:17,000 --> 00:17:23,000
+Ale abych odpověděl zcela přesně,
+pokud jsi Linus Torvalds
+
+139
+00:17:23,000 --> 00:17:26,000
+určitě to vyslovuješ jako "Liinuux".
+
+140
+00:17:26,000 --> 00:17:33,000
+Na druhou stranu, pokud jsi z východního
+pobřeží, určitě to říkáš jako "Lajnix".
+
+141
+00:17:33,000 --> 00:17:41,000
+Ale není důležité jak to vyslovuješ,
+pokud to užíváš.
+
+142
+00:17:41,000 --> 00:17:45,000
+To bylo v červenci 1991.
+
+143
+00:17:45,000 --> 00:17:52,000
+Krátce po vytvoření verze kernelu 0.09.
+
+144
+00:17:52,000 --> 00:17:55,000
+Začal jsem si hrát s Linuxem.
+Slyšel jsem o něm na Usenetu
+
+145
+00:17:55,000 --> 00:18:00,000
+Stáhnul jsem ho z Finska,
+začal jsem ho používat - bylo to to, co jsem potřeboval.
+
+146
+00:18:00,000 --> 00:18:06,000
+Tehdy bylo velmi omezené
+transatlantické spojení
+
+147
+00:18:06,000 --> 00:18:12,000
+takže bylo velmi obtížně stahovat
+všechny ty data z Finska.
+
+148
+00:18:12,000 --> 00:18:16,000
+Tak jsem si řekl, že je s tím
+třeba něco udělat.
+
+149
+00:18:16,000 --> 00:18:24,000
+Použil jsem svůj počítač
+TSX-11.mit.edu
+
+150
+00:18:24,000 --> 00:18:30,000
+a vytvořil jsem alternativní archív
+všech zdrojových kódů kernelu na
+vlastním počítači.
+
+151
+00:18:30,000 --> 00:18:36,000
+A to byl první americký FTP server s Linuxem.
+
+152
+00:18:36,000 --> 00:18:41,000
+Poprvé jsem potkal Linux, když jsem si stáhl
+instalační diskety
+
+153
+00:18:41,000 --> 00:18:45,000
+na univerzitě v Pen State jsem jen
+nainstaloval na jeden stroj v počítačové učebně
+
+154
+00:18:45,000 --> 00:18:57,000
+a uplně mě to pohltilo.
+To byla má první zkušenost s Linuxem.
+
+155
+00:18:57,000 --> 00:19:04,000
+Začátkem roku 1992 už jsem
+bohužel přestal znát každého.
+
+156
+00:19:04,000 --> 00:19:10,000
+Už to nebylo já a pár přátel.
+
+157
+00:19:10,000 --> 00:19:16,000
+Byl jsem to já a několik set lidí
+o kterých jsem netušil kde jsou
+
+158
+00:19:16,000 --> 00:19:20,000
+co dělají se systémem a kým jsou.
+
+159
+00:19:20,000 --> 00:19:29,000
+A to byl velký krok.
+
+160
+00:19:29,000 --> 00:19:36,000
+Verze 1.0 v roce 1994 byla určitě důležitá
+a znamenala pro mě mnoho.
+Bylo za ní mnoho práce.
+
+161
+00:19:36,000 --> 00:20:40,000
+Byla zaměřena na komerční použití, protože
+před verzí 1.0 to ještě na komerci nebylo.
+
+162
+00:20:40,000 --> 00:20:44,000
+Proces vývoje Linuxu je zvláštní.
+
+163
+00:20:44,000 --> 00:20:53,000
+Není to chaos, kde každý může měnit kód.
+
+164
+00:20:53,000 --> 00:20:57,000
+Existuje jediná osoba vydávající verze,
+činící rozhodnutí
+
+165
+00:20:57,000 --> 00:21:00,000
+vybírající nejlepší nápady.
+
+166
+00:21:00,000 --> 00:21:06,000
+Linus - Benevoletní diktátor.
+
+167
+00:21:06,000 --> 00:21:10,000
+Každý ví, že někdo musí být hlavou skupiny
+
+168
+00:21:10,000 --> 00:21:14,000
+a Linus byl přirozeným vůdcem, díky tomu,
+co udělal
+
+169
+00:21:14,000 --> 00:21:19,000
+Díky prvotnímu jádru Linuxu, kernelu.
+
+170
+00:21:19,000 --> 00:21:22,000
+Linus je člověk, který byl velmi dobrým vůdcem.
+
+171
+00:21:22,000 --> 00:21:34,000
+Jen hodně skromný. Nesnaží se chválit
+něčím, co sám neudělal.
+
+172
+00:21:34,000 --> 00:21:39,000
+Chcěš mít tisíce lidí pracujících na kernelu
+současně, ale nechceš
+
+173
+00:21:39,000 --> 00:21:45,000
+aby si šlapali na paty, protože většina času
+by byla trávena
+
+174
+00:21:45,000 --> 00:21:55,000
+řešením mezilidských konfliktů.
+
+175
+00:21:55,000 --> 00:22:01,000
+Myslel jsem si, že je to hierarchie na
+jejímž vrcholku stojím a oni jsou mí podřízení.
+
+176
+00:22:01,000 --> 00:22:05,000
+Ale už si to nemyslím.
+
+177
+00:22:05,000 --> 00:22:09,000
+Je to spíše síť důvěry.
+Mám lidi, kterým věřím
+
+178
+00:22:09,000 --> 00:22:13,000
+a oni mají zase jiné lidi, kterým věří oni.
+
+179
+00:22:13,000 --> 00:22:20,000
+Mnoho věcí je motivací. Umělecká touha,
+uspokojení plynoucí z dobře vykonané práce.
+
+180
+00:22:20,000 --> 00:22:26,000
+Pocit účasti na něčem větším
+
+181
+00:22:26,000 --> 00:22:30,000
+a důležitějším, než jsi ty sám.
+
+182
+00:22:30,000 --> 00:22:34,000
+Je tu chuť pomoci světu a
+vidět správná řešení v praxi.
+
+183
+00:22:34,000 --> 00:22:45,000
+Při neexistenci finanční odměny, lidi zajímá
+jejich reputace získaná prací.
+
+184
+00:22:45,000 --> 00:22:49,000
+Jedním z důsledků způsobu jakým se
+vyvíjí Linux je to, ze temer
+
+185
+00:22:49,000 --> 00:22:56,000
+s kazdym autorem programu je mozne
+se skontaktovat pres e-mail.
+
+186
+00:22:56,000 --> 00:23:03,000
+Ted Ts'o byl klíčovou postavou
+rozšiřování Linuxu v USA.
+
+187
+00:23:03,000 --> 00:23:09,000
+Samozřejmě, ze je snadné říct:
+"Kdybychom tomu šéfovali, udělali bychom to tak...
+
+188
+00:23:09,000 --> 00:23:15,000
+Ale když dostávám maily se slovy:
+"Prosím, dovolte mi to přidat!"
+
+189
+00:23:15,000 --> 00:23:18,000
+opravdu nevím co bych udělal,
+kdybych opravdu byl šéf.
+
+190
+00:23:18,000 --> 00:23:27,000
+Dave Miller je maintainer.
+Říká jaké změny chtějí tvůrci v kernelu.
+
+191
+00:23:27,000 --> 00:23:33,000
+Je spojkou mezi autory a "králem" Linusem.
+
+192
+00:23:33,000 --> 00:23:37,000
+Jek pracujeme...
+Můžeš celý den mluvit o světlých zítřcích
+
+193
+00:23:37,000 --> 00:23:42,000
+o řešení problému, nebo o něčem, co považuješ
+za zajímavé.
+
+194
+00:23:42,000 --> 00:23:45,000
+Ale musíš mi ukázat něco konkrétního.
+
+195
+00:23:45,000 --> 00:23:49,000
+Ukázat mi část kódu, která to dělá.
+Něco, co mohu otestovat
+
+196
+00:23:49,000 --> 00:23:56,000
+a uvidím co to je. Místo abstraktních keců
+celý den.
+
+197
+00:23:56,000 --> 00:24:08,000
+Alan Cox, všestranný hacker je Linusovým
+nejbližším spolupracovníkem, jeho pravá ruka.
+
+198
+00:24:08,000 --> 00:24:14,000
+Pro mě je kód podobný básním, nebo literatuře.
+
+199
+00:24:14,000 --> 00:24:21,000
+Ve svém stylu, struktuře, jednoduchém
+skládání nápadů jeden za druhým.
+
+200
+00:24:21,000 --> 00:24:27,000
+Dobrý kód je možné číst bez komentáře a je
+hned jasný.
+
+201
+00:24:27,000 --> 00:24:31,000
+Musí být elegantní. Rád se dívám na čistý a
+elegantní kód
+
+202
+00:24:31,000 --> 00:24:38,000
+ale take nezávislý na programových fintičkách.
+Kód použitelný i v budoucnosti.
+
+203
+00:24:38,000 --> 00:24:42,000
+Protože to poslední co bychom mohli chtít je
+velké množství kódu v kernelu.
+
+204
+00:24:42,000 --> 00:24:54,000
+Chceme mít kód, který bude
+fungovat a fungovat věčně.
+
+205
+00:24:54,000 --> 00:24:58,000
+Po pěti letech práce nad Linuxem v Helsinkách
+
+206
+00:24:58,000 --> 00:25:02,000
+byl Linus pozván do Silicon Valley v Kalifornii.
+
+207
+00:25:02,000 --> 00:25:15,000
+Chtěl uvidět jiné části světa.
+Jiné, než akademické.
+
+208
+00:25:15,000 --> 00:25:18,000
+Jste dost neortodoxní postavou v Silicon Valley.
+
+209
+00:25:18,000 --> 00:25:57,000
+Co od vás čekají?
+Nejste částí jejich reklamy?
+
+210
+00:26:23,000 --> 00:26:26,000
+Linus začal pracovat pro společnost Transmeta.
+
+211
+00:26:26,000 --> 00:26:33,000
+Vtáhli Linuse do zahadného projektu.
+Celá léta tajili co chystají.
+
+212
+00:26:33,000 --> 00:26:39,000
+Paradoxně to je firma opírající se o principy
+uzavřeného kódu.
+
+213
+00:26:39,000 --> 00:26:44,000
+Linus se mohl i nadále
+soustředit na rozvoj Linuxu.
+
+214
+00:26:44,000 --> 00:26:49,000
+Byl jsem přinucen zůstat
+
+215
+00:26:49,000 --> 00:26:57,000
+klukem z Linuxového plakátu.
+A vlastně reklamou celého open source společenství.
+
+216
+00:26:57,000 --> 00:27:05,000
+I když nejsem ten, kdo vymyslel
+Open Source.
+
+217
+00:27:05,000 --> 00:27:09,000
+Neexistuje jedna osoba reprezentující
+celou tu historii.
+
+218
+00:27:09,000 --> 00:27:12,000
+A neexistuje jeden startovní bod,
+kde to všechno začalo.
+
+219
+00:27:12,000 --> 00:27:17,000
+Je to jako klacek.
+Nevíš kde začíná a kde končí.
+
+220
+00:27:17,000 --> 00:27:21,000
+Nemyslím, že to hnutí je něco nového.
+
+221
+00:27:21,000 --> 00:27:27,000
+Existuje to už dlouho.
+Snad už od 70. let.
+
+222
+00:27:27,000 --> 00:27:33,000
+Nadšení z Unixu, který technicky nebyl
+Open Source. Byl zdarma,
+
+223
+00:27:33,000 --> 00:27:41,000
+protože jsme nepoužívali tu licenci od AT&T,
+ale to byla globální záležitost.
+
+224
+00:27:41,000 --> 00:27:45,000
+Mohli jste si vyměňovat věci zdarma.
+
+225
+00:27:45,000 --> 00:27:48,000
+Když spouštíš program, spouštíš
+spustitelnou formu.
+
+226
+00:27:48,000 --> 00:27:54,000
+sérii čísel a nikdo nerozumí jejich smyslu.
+
+227
+00:27:54,000 --> 00:27:57,000
+Rozumí jim jen počítač a k tomu vlastně jsou.
+
+228
+00:27:57,000 --> 00:28:03,000
+Ta čísla jsou formou programu,
+které rozumí počítač.
+
+229
+00:28:03,000 --> 00:28:06,000
+Ale pro člověka je pochopení jejich významu
+velmi těžké.
+
+230
+00:28:06,000 --> 00:28:12,000
+Když píšeme program, píšeme zdrojový kód.
+
+231
+00:28:12,000 --> 00:28:18,000
+Této formě můžeš rozumnět,
+pokud jsi programátor.
+
+232
+00:28:18,000 --> 00:28:22,000
+Pro lepší srozumitelnost v nich většinou
+bývá mnoho komentářů
+
+233
+00:28:22,000 --> 00:28:31,000
+které jsou vysvětlením proč byl program
+napsán právě tímto způsobem.
+
+234
+00:28:31,000 --> 00:28:38,000
+Jestli dostaneš jen binární kód,
+ten ti určitě prodá Microsoft,
+
+235
+00:28:38,000 --> 00:28:44,000
+tak i když jsi schopen udělat změny,
+nevíš jaké to jsou úpravy.
+
+236
+00:28:44,000 --> 00:28:48,000
+Aby bylo možné upravovat program tak,
+aby byl praktický a užitečný,
+
+237
+00:28:48,000 --> 00:28:51,000
+musíš mít zdrojové kódy.
+
+238
+00:28:51,000 --> 00:28:55,000
+Když se podíváš na ten projekt
+
+239
+00:28:55,000 --> 00:29:00,000
+zjistíš, že Linus stvořil kernel, 
+ale ne celý systém.
+
+240
+00:29:00,000 --> 00:29:05,000
+Myslím, že nejzajímavšjší je Richard Stallman,
+který založil hnutí.
+
+241
+00:29:05,000 --> 00:29:07,000
+Slyšel jsi o Richardovi Stallmanovi?
+
+242
+00:29:07,000 --> 00:29:11,000
+Chtěl, aby každý měl právo na užívání programů,
+jejich kopírování bez porušování zákonů
+
+243
+00:29:11,000 --> 00:29:16,000
+na změny a distribuci,
+chtěl dát lidem práva.
+
+244
+00:29:16,000 --> 00:29:20,000
+Když se rozhodnul odhodit pokažený
+americký kapitalismus
+
+245
+00:29:20,000 --> 00:29:50,000
+v počítačovém průmyslu.
+Dal výpověď a dále kódoval.
+
+246
+00:29:50,000 --> 00:29:58,000
+Jsem zvyklý to vnímat jako otázku
+spravedlnosti, svobody a etiky.
+
+247
+00:29:58,000 --> 00:30:06,000
+Svůj záměr jsem zveřejnil v listopadu 1983,
+ale až v lednu 84 jsem dal výpověď v MIT
+
+248
+00:30:06,000 --> 00:30:12,000
+abych začal programovat volný operační systém
+
+249
+00:30:12,000 --> 00:30:15,000
+který jsem pojmenoval GNU.
+
+250
+00:30:15,000 --> 00:30:21,000
+To je GPL - GNU General Public Licence,
+a samozřejmě, kernel je pod GPL.
+
+251
+00:30:21,000 --> 00:30:25,000
+"Free software" znamená především svobodu,
+ne cenu.
+
+252
+00:30:25,000 --> 00:30:32,000
+V angličtině má bohužel slovo "free"
+několik různých významů.
+
+253
+00:30:32,000 --> 00:30:38,000
+Jeden z nich je nulová cena,
+ale druhý znamená, že máš svobodu.
+
+254
+00:30:38,000 --> 00:30:50,000
+Takže vnímej to jako svobodu slova,
+ne pivo zdarma.
+
+255
+00:30:50,000 --> 00:30:55,000
+Existuje podobnost mezi folklorem
+a free software.
+
+256
+00:30:55,000 --> 00:31:03,000
+Lidová píseň, báseň, pohádka, podléhá změnám,
+podle toho, kdo ji vypráví.
+
+257
+00:31:03,000 --> 00:31:12,000
+Podobně je to u free software.
+
+258
+00:31:12,000 --> 00:31:15,000
+Často můžete narazit na případy,
+kdy je program rozvíjen
+
+259
+00:31:15,000 --> 00:31:18,000
+skupinou lidí, mezi nimiž
+
+260
+00:31:18,000 --> 00:31:25,000
+už není nikdo z původních programátorů.
+
+261
+00:31:25,000 --> 00:31:29,000
+V roce 1991 jsme měli čerstvě dokončený systém GNU.
+
+262
+00:31:29,000 --> 00:31:33,000
+Našim cílem bylo vytvořit operační systém
+podobný Unixu,
+
+263
+00:31:33,000 --> 00:31:36,000
+ale zcela zdarma.
+
+264
+00:31:36,000 --> 00:31:41,000
+Ten kompletní systém vyžadoval mnoho různých součástí.
+
+265
+00:31:41,000 --> 00:31:46,000
+V 1991 jsme měli všechny ty části.
+
+266
+00:31:46,000 --> 00:31:51,000
+Hodně jsme jich napsali sami a hodně jsme jich našli
+už napsaných někým jiným
+
+267
+00:31:51,000 --> 00:31:55,000
+pro jeho vlastní účely, ale nám se hodily.
+
+268
+00:31:55,000 --> 00:31:59,000
+takže jsme je připojili k celku jako část GNU.
+
+269
+00:31:59,000 --> 00:32:01,000
+Jeden hlavní element stále chyběl.
+
+270
+00:32:01,000 --> 00:32:04,000
+Element zvaný kernel.
+
+271
+00:32:04,000 --> 00:32:08,000
+Takže je velmi dobře, že Linus Torvalds napsal kernel.
+
+272
+00:32:08,000 --> 00:32:15,000
+Od té chvíle jsme spojením jeho kernelu,
+Linuxu s velkým systémem GNU
+
+273
+00:32:15,000 --> 00:32:23,000
+vytvářeli kompletní systém, připravený k instalaci
+na tvůj PC.
+
+274
+00:32:23,000 --> 00:32:30,000
+Takže v době kdy byl psán Linux, byl GNU systém již hotov.
+
+275
+00:32:30,000 --> 00:32:33,000
+A začal získavat na popularitě.
+
+276
+00:32:33,000 --> 00:32:37,000
+Ale ve stejné době se stalo něco nešťastného.
+
+277
+00:32:37,000 --> 00:32:43,000
+Lidé užívající systém GNU si neuvědomovali, že
+to je systém GNU.
+
+278
+00:32:43,000 --> 00:32:49,000
+Začali pak celé kombinaci říkat Linux.
+
+279
+00:32:49,000 --> 00:32:53,000
+Rozšířilo se to a výsledkem je,
+
+280
+00:32:53,000 --> 00:32:59,000
+že je pro nás, z projektu GNU, těžké přítáhnout pozornost uživatelů
+
+281
+00:32:59,000 --> 00:33:22,000
+k politickým a etickým zásadám.
+
+282
+00:33:22,000 --> 00:33:27,000
+Počítače se v USA vymanily
+
+283
+00:33:27,000 --> 00:33:30,000
+z vojenských a obranných využití.
+
+284
+00:33:30,000 --> 00:33:34,000
+Možná to není divnější, než
+hledání cest
+
+285
+00:33:34,000 --> 00:33:41,000
+pro ideu programování zdarma Richarda Stallmana 
+a přívrženců svobody.
+
+286
+00:33:41,000 --> 00:33:45,000
+Hodně lidí hledá v této oblasti
+zdroj obživy
+
+287
+00:33:45,000 --> 00:33:49,000
+a potřebují méně radikální prostředky.
+
+288
+00:33:49,000 --> 00:33:57,000
+Vstupují do oblasti Open Source.
+
+289
+00:33:57,000 --> 00:34:05,000
+Hleděli jsme do historie propagace
+v dobách hnutí free software
+
+290
+00:34:05,000 --> 00:34:08,000
+a došli jsme k závěru, že to nefunguje.
+
+291
+00:34:08,000 --> 00:34:12,000
+Taktika a rétorika použitá Richardem Stallmanem
+při vytváření Free Sofware Foundantion
+
+292
+00:34:12,000 --> 00:34:17,000
+nás zanechala méně přesvědčené,
+než když jsme začínali.
+
+293
+00:34:17,000 --> 00:34:28,000
+Pojem Open Source nepřináší politické otázky,
+jak to stále dělá pojem free software.
+
+294
+00:34:28,000 --> 00:34:31,000
+Nyní vzniklo nové hnutí, Open Source
+
+295
+00:34:31,000 --> 00:34:34,000
+kde jsou zohledňovány pouze
+praktické výhody.
+
+296
+00:34:34,000 --> 00:34:41,000
+Oni odmítají - přesněji pečlivě se vyhýbají
+
+297
+00:34:41,000 --> 00:34:44,000
+otázkám svobody
+
+298
+00:34:44,000 --> 00:34:48,000
+etiky a vytváření dobrého společenství pro život.
+
+299
+00:34:48,000 --> 00:34:52,000
+Tento způsob vyjadřování je ohrožením
+
+300
+00:34:52,000 --> 00:34:57,000
+pro lidi, kteří si den co den dělají starosti
+o zvětšení obsahu své penězenky
+
+301
+00:34:57,000 --> 00:35:00,000
+udržením kontroly nad svým podnikáním.
+
+302
+00:35:00,000 --> 00:35:06,000
+Jak vyřeší své skutečné, otravné problémy.
+
+303
+00:35:06,000 --> 00:35:10,000
+Můžeš k nim přijít a říct:
+"Měl bys využít open source
+
+304
+00:35:10,000 --> 00:35:15,000
+protože dělit se je správné
+a nedělit je zle" - to nefunguje!
+
+305
+00:35:15,000 --> 00:35:17,000
+Komunikace selhává.
+
+306
+00:35:17,000 --> 00:35:21,000
+Nejsem proti byznysu.
+Nevěřím v jeho zánik.
+
+307
+00:35:21,000 --> 00:35:28,000
+Sám podnikám. Ale věřím, že by to nemělo
+ovládnout celý život.
+
+308
+00:35:28,000 --> 00:35:33,000
+Společenská pravidla nemohou být vytvářena
+k tomu, aby uspokojila byznys.
+
+309
+00:35:33,000 --> 00:35:38,000
+V roce 1998 většina uživatelů v komunitě
+přešla z free software
+
+310
+00:35:38,000 --> 00:35:42,000
+na open source. Během 6 týdnů.
+
+311
+00:35:42,000 --> 00:35:46,000
+Koncem jara, nebo na začátku léta 1998.
+
+312
+00:35:46,000 --> 00:35:51,000
+To mi ukázalo, že tu byla v komunitě velká,
+neuspokojená potřeba.
+
+313
+00:35:51,000 --> 00:35:56,000
+Jednoduše, bylo to efektivnější.
+
+314
+00:35:56,000 --> 00:36:01,000
+Pohled tisku a investorů se zcela změnil
+o 180 stupňů.
+
+315
+00:36:01,000 --> 00:36:08,000
+Stejní lidé, kteří léta vrčeli na free software
+
+316
+00:36:08,000 --> 00:36:14,000
+a mluvili o dlouhovlasých hipících v sandálech
+
+317
+00:36:14,000 --> 00:36:18,000
+ti stejní lidé během roku začali
+
+318
+00:36:18,000 --> 00:36:23,000
+psát halasné články o zazracích open source.
+
+319
+00:36:23,000 --> 00:36:27,000
+Bylo to opravdu zábavné, protože 
+to byly tytéž programy
+
+320
+00:36:27,000 --> 00:36:33,000
+a ve většině případů
+i titíž lidé!
+
+321
+00:36:33,000 --> 00:36:36,000
+"Nordický Robin Hood"
+
+322
+00:36:36,000 --> 00:36:39,000
+"Martine Luthere, seznam se s Linusem Torvaldsem"
+
+323
+00:36:39,000 --> 00:36:43,000
+Linux vzniknul bez pomoci lidí s plnými peněženkami
+
+324
+00:36:43,000 --> 00:36:46,000
+a dokonce navzdory jim.
+
+325
+00:36:46,000 --> 00:36:52,000
+Jak můžeme předejít zničení té magie,
+nalévajíc do Linuxu peníze?
+
+326
+00:36:52,000 --> 00:36:58,000
+Kdyzž jsme začali fungovat komerčně, lidé říkali:
+"Ó né, chceme to udržet jako soukromý projekt"
+
+327
+00:36:58,000 --> 00:37:03,000
+a tak dále a nikdo by na tom neměl vydělávat.
+
+328
+00:37:03,000 --> 00:37:07,000
+Nu což. Ve skutečném, světě lidé vydělávají
+peníze na všem.
+
+329
+00:37:07,000 --> 00:37:12,000
+USA, to je kapitalistická společnost.
+Evropa, to je kapitalistická společnost.
+
+330
+00:37:12,000 --> 00:37:21,000
+Aby firmy začaly využívat Linux, musí se jim dát
+někdo, kdo jim pomůže
+
+331
+00:37:21,000 --> 00:37:27,000
+kdo jim prodá zařízení. Kdo to všechno může udělat.
+
+332
+00:37:27,000 --> 00:37:36,000
+A ti lidé, kteří prodávají hardware,
+prodávají pomoc, budou vydělávat.
+
+333
+00:37:36,000 --> 00:37:38,000
+Ne každý z nás je Hacker.
+
+334
+00:37:38,000 --> 00:37:44,000
+Ve skutečnosti jen málo z nás zkusí stáhnout
+vlastní Linux z Internetu.
+
+335
+00:37:44,000 --> 00:37:50,000
+Ještě méně lidí se jej pokusí vylepšovat.
+
+336
+00:37:50,000 --> 00:37:53,000
+I když byl Linux složitý při používání
+
+337
+00:37:53,000 --> 00:37:59,000
+klienti si brzo pochvalovali stabilitu a přístup ke kódu.
+
+338
+00:37:59,000 --> 00:38:13,000
+Byla to příležitost pro firmy s novátorskými vizemi.
+
+339
+00:38:13,000 --> 00:38:19,000
+Pro Red Hat nebylo důležité, že máme lepší systém, než
+Microsoft, nebo Sun
+
+340
+00:38:19,000 --> 00:38:25,000
+bylo důležité, že dodáváme systém řešící 
+problémy našich klientů
+
+341
+00:38:25,000 --> 00:38:30,000
+které nemohli řešit užitím tradičních kupovaných programů.
+
+342
+00:38:30,000 --> 00:38:36,000
+Chápali jsme co děláme. Vytvářeli jsme technologii
+a dávali jsme ji ostatním.
+
+343
+00:38:36,000 --> 00:38:41,000
+Tak jak se na tom dá vydělat?
+
+344
+00:38:41,000 --> 00:38:44,000
+Samozřejmě jsme vyrazili do Kalifornie,
+do Křemíkového údolí.
+
+345
+00:38:44,000 --> 00:38:49,000
+A všichni říkali: "Nemůžeš vydělávat peníze v tomhle oboru,
+když rozdáváš svou technologii".
+
+346
+00:38:49,000 --> 00:38:55,000
+Vrátili jsme se, promluvili si s klienty
+a pochopili, že jsou k nám loajální jen proto,
+
+347
+00:38:55,000 --> 00:38:58,000
+že to, co děláme je, že rozdáváme technologii.
+
+348
+00:38:58,000 --> 00:39:02,000
+Poprvé měli oni kontrolu nad užívanou technologií.
+
+349
+00:39:02,000 --> 00:39:06,000
+- Untranslated subtitle -
+
+350
+00:39:06,000 --> 00:39:10,000
+- Untranslated subtitle -
+
+351
+00:39:10,000 --> 00:39:21,000
+- Untranslated subtitle -
+
+352
+00:39:21,000 --> 00:39:25,000
+- Untranslated subtitle -
+
+353
+00:39:25,000 --> 00:39:30,000
+- Untranslated subtitle -
+
+354
+00:39:30,000 --> 00:39:35,000
+- Untranslated subtitle -
+
+355
+00:39:35,000 --> 00:39:40,000
+- Untranslated subtitle -
+
+356
+00:39:40,000 --> 00:39:43,000
+- Untranslated subtitle -
+
+357
+00:39:43,000 --> 00:39:52,000
+- Untranslated subtitle -
+
+358
+00:39:52,000 --> 00:39:55,000
+- Untranslated subtitle -
+
+359
+00:39:55,000 --> 00:40:12,000
+- Untranslated subtitle -
+
+360
+00:40:12,000 --> 00:40:16,000
+- Untranslated subtitle -
+
+361
+00:40:16,000 --> 00:40:24,000
+- Untranslated subtitle -
+
+362
+00:40:24,000 --> 00:40:28,000
+- Untranslated subtitle -
+
+363
+00:40:28,000 --> 00:40:35,000
+- Untranslated subtitle -
+
+364
+00:40:35,000 --> 00:40:40,000
+- Untranslated subtitle -
+
+365
+00:40:40,000 --> 00:40:44,000
+- Untranslated subtitle -
+
+366
+00:40:44,000 --> 00:40:50,000
+- Untranslated subtitle -
+
+367
+00:40:50,000 --> 00:40:56,000
+- Untranslated subtitle -
+
+368
+00:40:56,000 --> 00:41:01,000
+- Untranslated subtitle -
+
+369
+00:41:01,000 --> 00:41:07,000
+- Untranslated subtitle -
+
+370
+00:41:07,000 --> 00:41:10,000
+- Untranslated subtitle -
+
+371
+00:41:10,000 --> 00:41:18,000
+- Untranslated subtitle -
+
+372
+00:41:18,000 --> 00:41:28,000
+- Untranslated subtitle -
+
+373
+00:41:28,000 --> 00:41:34,000
+- Untranslated subtitle -
+
+374
+00:41:34,000 --> 00:41:40,000
+- Untranslated subtitle -
+
+375
+00:41:40,000 --> 00:41:51,000
+- Untranslated subtitle -
+
+376
+00:41:51,000 --> 00:41:58,000
+- Untranslated subtitle -
+
+377
+00:41:58,000 --> 00:42:03,000
+- Untranslated subtitle -
+
+378
+00:42:03,000 --> 00:42:09,000
+- Untranslated subtitle -
+
+379
+00:42:09,000 --> 00:42:16,000
+- Untranslated subtitle -
+
+380
+00:42:16,000 --> 00:42:19,000
+- Untranslated subtitle -
+
+381
+00:42:19,000 --> 00:42:36,000
+- Untranslated subtitle -
+
+382
+00:42:36,000 --> 00:42:42,000
+- Untranslated subtitle -
+
+383
+00:42:42,000 --> 00:43:07,000
+- Untranslated subtitle -
+
+384
+00:43:07,000 --> 00:43:14,000
+- Untranslated subtitle -
+
+385
+00:43:14,000 --> 00:43:51,000
+- Untranslated subtitle -
+
+386
+00:43:51,000 --> 00:43:56,000
+- Untranslated subtitle -
+
+387
+00:43:56,000 --> 00:43:59,000
+- Untranslated subtitle -
+
+388
+00:43:59,000 --> 00:44:08,000
+- Untranslated subtitle -
+
+389
+00:44:08,000 --> 00:44:16,000
+- Untranslated subtitle -
+
+390
+00:44:16,000 --> 00:44:19,000
+- Untranslated subtitle -
+
+391
+00:44:19,000 --> 00:44:29,000
+- Untranslated subtitle -
+
+392
+00:44:32,000 --> 00:44:39,000
+- Untranslated subtitle -
+
+393
+00:44:39,000 --> 00:44:46,000
+- Untranslated subtitle -
+
+394
+00:44:46,000 --> 00:44:52,000
+- Untranslated subtitle -
+
+395
+00:44:52,000 --> 00:44:57,000
+- Untranslated subtitle -
+
+396
+00:44:57,000 --> 00:45:03,000
+- Untranslated subtitle -
+
+397
+00:45:03,000 --> 00:45:10,000
+- Untranslated subtitle -
+
+398
+00:45:10,000 --> 00:45:14,000
+- Untranslated subtitle -
+
+399
+00:45:14,000 --> 00:45:23,000
+- Untranslated subtitle -
+
+400
+00:45:23,000 --> 00:45:36,000
+- Untranslated subtitle -
+
+401
+00:45:36,000 --> 00:45:39,000
+- Untranslated subtitle -
+
+402
+00:45:39,000 --> 00:45:45,000
+- Untranslated subtitle -
+
+403
+00:45:45,000 --> 00:45:50,000
+- Untranslated subtitle -
+
+404
+00:45:50,000 --> 00:45:55,000
+- Untranslated subtitle -
+
+405
+00:45:55,000 --> 00:46:00,000
+- Untranslated subtitle -
+
+406
+00:46:00,000 --> 00:46:06,000
+- Untranslated subtitle -
+
+407
+00:46:06,000 --> 00:46:15,000
+- Untranslated subtitle -
+
+408
+00:46:15,000 --> 00:46:18,000
+- Untranslated subtitle -
+
+409
+00:46:18,000 --> 00:46:24,000
+- Untranslated subtitle -
+
+410
+00:46:24,000 --> 00:46:30,000
+- Untranslated subtitle -
+
+411
+00:46:30,000 --> 00:46:39,000
+- Untranslated subtitle -
+
+412
+00:46:39,000 --> 00:46:59,000
+- Untranslated subtitle -
+
+413
+00:46:59,000 --> 00:47:05,000
+- Untranslated subtitle -
+
+414
+00:47:05,000 --> 00:47:12,000
+- Untranslated subtitle -
+
+415
+00:47:12,000 --> 00:47:19,000
+- Untranslated subtitle -
+
+416
+00:47:19,000 --> 00:47:24,000
+- Untranslated subtitle -
+
+417
+00:47:24,000 --> 00:47:32,000
+- Untranslated subtitle -
+
+418
+00:47:32,000 --> 00:48:28,000
+- Untranslated subtitle -
+
+419
+00:48:28,000 --> 00:48:33,000
+- Untranslated subtitle -
+
+420
+00:48:33,000 --> 00:48:39,000
+- Untranslated subtitle -
+
+421
+00:48:39,000 --> 00:49:45,000
+- Untranslated subtitle -
+
+422
+00:49:45,000 --> 00:49:52,000
+- Untranslated subtitle -
+
+423
+00:49:52,000 --> 00:49:59,000
+- Untranslated subtitle -
+
+424
+00:49:59,000 --> 00:50:02,000
+- Untranslated subtitle -
+
+425
+00:50:02,000 --> 00:50:11,000
+- Untranslated subtitle -
+
+426
+00:50:11,000 --> 00:50:13,000
+- Untranslated subtitle -
+
+427
+00:50:13,000 --> 00:50:35,000
+- Untranslated subtitle -
+
+428
+00:50:35,000 --> 00:50:42,000
+- Untranslated subtitle -
+
+429
+00:50:42,000 --> 00:50:44,000
+- Untranslated subtitle -
+
+430
+00:50:44,000 --> 00:50:49,000
+- Untranslated subtitle -
+
+431
+00:50:49,000 --> 00:50:54,000
+- Untranslated subtitle -
+
+432
+00:50:54,000 --> 00:51:02,000
+- Untranslated subtitle -
+
+433
+00:51:02,000 --> 00:51:06,000
+- Untranslated subtitle -
+
+434
+00:51:06,000 --> 00:51:13,000
+- Untranslated subtitle -
+
+435
+00:51:13,000 --> 00:51:18,000
+- Untranslated subtitle -
+
+436
+00:51:18,000 --> 00:51:21,000
+- Untranslated subtitle -
+
+437
+00:51:21,000 --> 00:51:28,000
+- Untranslated subtitle -
+
+438
+00:51:28,000 --> 00:51:37,000
+- Untranslated subtitle -
+
+439
+00:51:37,000 --> 00:51:41,000
+- Untranslated subtitle -
+
+440
+00:51:41,000 --> 00:51:44,000
+- Untranslated subtitle -
+
+441
+00:51:44,000 --> 00:51:50,000
+- Untranslated subtitle -
+
+442
+00:51:50,000 --> 00:52:01,000
+- Untranslated subtitle -
+
+443
+00:52:01,000 --> 00:52:05,000
+- Untranslated subtitle -
+
+444
+00:52:05,000 --> 00:52:09,000
+- Untranslated subtitle -
+
+445
+00:52:09,000 --> 00:52:12,000
+- Untranslated subtitle -
+
+446
+00:52:12,000 --> 00:52:19,000
+- Untranslated subtitle -
+
+447
+00:52:19,000 --> 00:52:25,000
+- Untranslated subtitle -
+
+448
+00:52:25,000 --> 00:52:29,000
+- Untranslated subtitle -
+
+449
+00:52:29,000 --> 00:52:36,000
+- Untranslated subtitle -
+
+450
+00:52:36,000 --> 00:52:43,000
+- Untranslated subtitle -
+
+451
+00:52:43,000 --> 00:52:47,000
+- Untranslated subtitle -
+
+452
+00:52:47,000 --> 00:52:51,000
+- Untranslated subtitle -
+
+453
+00:52:51,000 --> 00:52:59,000
+- Untranslated subtitle -
+
+454
+00:52:59,000 --> 00:53:01,000
+- Untranslated subtitle -
+
+455
+00:53:01,000 --> 00:53:09,000
+- Untranslated subtitle -
+
+456
+00:53:09,000 --> 00:53:15,000
+- Untranslated subtitle -
+
+457
+00:53:15,000 --> 00:53:18,000
+- Untranslated subtitle -
+
+458
+00:53:18,000 --> 00:53:21,000
+- Untranslated subtitle -
+
+459
+00:53:21,000 --> 00:53:30,000
+- Untranslated subtitle -
+
+460
+00:53:30,000 --> 00:53:38,000
+- Untranslated subtitle -
+
+461
+00:53:38,000 --> 00:53:45,000
+- Untranslated subtitle -
+
+462
+00:53:45,000 --> 00:53:53,000
+- Untranslated subtitle -
+
+463
+00:53:53,000 --> 00:53:58,000
+- Untranslated subtitle -
+
+464
+00:53:58,000 --> 00:54:04,000
+- Untranslated subtitle -
+
+465
+00:54:04,000 --> 00:54:11,000
+- Untranslated subtitle -
+
+466
+00:54:11,000 --> 00:54:15,000
+- Untranslated subtitle -
+
+467
+00:54:15,000 --> 00:54:21,000
+- Untranslated subtitle -
+
+468
+00:54:21,000 --> 00:54:28,000
+- Untranslated subtitle -
+
+469
+00:54:28,000 --> 00:54:44,000
+- Untranslated subtitle -
+
+470
+00:54:44,000 --> 00:54:50,000
+- Untranslated subtitle -
+
+471
+00:54:50,000 --> 00:55:03,000
+- Untranslated subtitle -
+
+472
+00:55:03,000 --> 00:55:08,000
+- Untranslated subtitle -
+
+473
+00:55:08,000 --> 00:55:11,000
+- Untranslated subtitle -
+
+474
+00:55:11,000 --> 00:55:15,000
+- Untranslated subtitle -
+
+475
+00:55:15,000 --> 00:55:24,000
+- Untranslated subtitle -
+
+476
+00:55:24,000 --> 00:55:28,000
+- Untranslated subtitle -
+
+477
+00:55:28,000 --> 00:55:32,000
+- Untranslated subtitle -
+
+478
+00:55:32,000 --> 00:55:44,000
+- Untranslated subtitle -
+
+479
+00:55:44,000 --> 00:56:00,000
+- Untranslated subtitle -
+
+480
+00:56:00,000 --> 00:56:02,000
+- Untranslated subtitle -
+
